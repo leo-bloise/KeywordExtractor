@@ -1,0 +1,94 @@
+ORIGIN
+
+Origin is reimagining wealth management by making it accessible and affordable to all.
+
+Today, money is the [#1] source of stress - more than jobs, health, and relationships combined. That stress is exacerbated in the current economic environment, which is presenting people with once-in-a-generation financial challenges. Origin is tackling this problem head on by expanding access to financial planning for those who have historically been boxed out due to high barriers to entry.
+
+Our product simplifies finances for individuals making it easy to manage spend and investments, get expert advice, and take action to hit financial goals.
+
+We are a fast-paced startup in the series B round, led by repeat founders and backed by leading VC firms like Founders Fund, Felicis, and General Catalyst.
+
+THE ROLE
+
+Mission
+
+The senior product engineer doesn’t just fulfill that promise but lives by it from the forefront, discovering issues faced by our members and doing whatever it takes to make those problems disappear. They can shape solutions end-to-end; however, they use their experience to collaborate across the board and drive our product thinking forward alongside all her teammates. They thrive amongst uncertainty, leads by example, embeds radical candor, is highly experienced and efficient, and ultimately scales her impact beyond expectations by leveraging all around.
+
+A Typical Day
+
+In this role, every day is an opportunity to impact the technical direction of our company, working alongside a team of equally talented and dedicated professionals. Your contributions will not only drive immediate improvements but also shape our long-term technical strategy.
+
+Innovative Development: Your day begins with a focus on advancing our product's capabilities. You'll be building and refining features that directly impact our users, using a mix of established and cutting-edge technologies. This might involve coding, debugging, and deploying updates, ensuring our product remains at the forefront of our industry.
+Enhancing Software Reliability: A significant part of your role involves delivering software solutions that are not just innovative but also reliable and scalable. This includes reviewing and improving existing code, as well as designing new features with fault tolerance and efficiency in mind.
+Applying Industry Best Practices: As a senior engineer, you'll continually look for ways to integrate industry best practices into our workflows. This could mean researching new methodologies, adapting them to our unique environment, and sharing your insights with the team.
+Systematic Problem-Solving: Your expertise will be crucial in systematically enhancing our product's availability. You'll apply distributed systems best practices, identify potential issues, and develop robust solutions to improve system performance and reliability.
+Collaborative Efforts: Collaboration is key in your role. You'll work closely with other skilled engineers across infrastructure, infosec, and other domains. Together, you'll build a strong technical foundation, setting the stage for our company's growth and innovation in the coming years.
+Project Leadership: In your role as a senior product engineer, you excel in leading projects from start to finish, working in tandem with engineering managers and product managers to ensure exceptional quality, adherence to deadlines, and effective stakeholder management.
+
+MUST-HAVE
+
+In this Senior Product Engineer role, your expertise and mindset are vital to our success in developing groundbreaking, consumer-facing products in a highly demanding and regulated industry. We are forging paths where others haven't, driven by the necessity of crafting software that is not only flexible and reliable but also capable of rapid evolution without compromising integrity.
+
+Skills
+
+Your technical prowess is essential, but equally important are your soft skills and work approach. We are looking for someone who is:
+
+Specific Technical Expertise: A strong foundation in technologies like .NET, C#, Terraform, and Kubernetes. Your familiarity with these tools will be essential as they form a significant part of our current tech stack.
+Intellectually Rigorous: You possess a deep curiosity and a strong desire to explore, understand, and solve complex problems.
+Relentlessly Resourceful: Inspired by Paul Graham's philosophy, you are someone who thrives in challenging situations and finds innovative solutions even in the face of obstacles.
+Technically Excellent: Your technical skills are not bound to specific technologies but rather demonstrate a broad and adaptable engineering prowess.
+Skilled in Feedback: You are adept at giving and receiving feedback, understanding its role in personal and team growth.
+Effective Remotely: You can work efficiently in a remote setting during an 8-hour day shift while ensuring overlap with our core hours (9 AM to 2 PM PT).
+Language Proficiency: Fluency in English, both written and spoken, is crucial for clear and effective communication within our global team.
+Language Proficiency: Fluency in Portuguese, both written and spoken, is crucial for clear and effective communication within our global team.
+
+NICE-TO-HAVE
+
+While your core engineering mindset and approach are paramount, additional skills and experiences will be advantageous:
+
+Industry Experience: If you have previously worked in regulated, fault-intolerant industries, your insights and experience would be highly valuable.
+Versatility in Software Development: Experience in developing consumer-facing products, especially in environments requiring high reliability and fault tolerance.
+Collaborative Tools Proficiency: Familiarity with collaboration and development tools commonly used in remote work environments.
+
+What We Offer
+
+Financial Benefits:
+
+Generous base salary
+Meaningful equity package
+Retirement 401k for USA-based Originals
+
+Healthcare And Wellness Programs
+
+Healthcare
+Wellness stipend
+Mental wellness program
+Unlimited access to financial planning
+Life insurance for USA-based Originals
+
+Work-life Balance
+
+Unlimited PTO
+Remote-first culture
+Flexible hours (Core hours: 9 AM to 5 PM local time)
+Paid Parental Leave
+
+Additional Perks
+
+Parenthood and fertility assistance
+Monthly co-working membership reimbursement
+English tutoring stipend for International Originals
+Build your home-office one-time stipend
+Pick your setup (Apple, Windows) and accessories
+
+ORIGINALS
+
+Fulfilling our mission is only possible with a diverse team that breathes for excellence and is hugely committed to making money simple for everyone, everywhere.
+
+As a team, we are obsessed with delivering the best solution possible to our members through an elegant and self-guided experience. We know that building a product of this magnitude requires from us tons of creativity, autonomy, and flexibility to move fast and embrace uncertainties with ownership. This is who we daily pursue to be!
+
+To embrace talented people like this and provide the necessary resources to achieve their best versions, we believe in the power of a healthy environment where each person is valued for who they are and have clear goals and expectations for the future they can build within the company. Each person here is seen as a key player in our team.
+
+Our environment is diverse, with excellent people and equal opportunities. We believe in the power of the individuality and uniqueness of each of us to make our team even more powerful.
+
+We are building an outstanding solution, and here is an invitation for you to become an Original and join us on this journey!

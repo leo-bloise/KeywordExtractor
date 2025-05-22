@@ -1,0 +1,73 @@
+A Verity está buscando novos talentos!
+
+Somos uma aceleradora de soluções digitais e buscamos .NETCore Backend Developer Sênior para fazer parte dessa jornada.
+
+Olha só quais são as experiências e conhecimentos que você precisa ter para acelerar e transformar com a gente:
+
+Responsabilidades e atribuições
+
+Requisitos e qualificações
+
+Experiência em desenvolvimento
+.NET Core e .NET 7
+Testes unitários com Xunit
+Entity Framework
+Abordagem de desenvolvimento orientado a Microserviços
+Mensageria (Kafka)
+APIs REST e Swagger
+Containers (Docker)
+Virtualização de servIços, Kubernetes, Openshift
+Keycloak, Oauth2, LDAP, Fluentd, Elastic Search, Kibana
+Conhecimento em NLog
+Plataforma gitlab (versionamento, CI/CD) e nexus (Nuget)
+Proxy management (apigee)
+Banco de dados Oracle, SQLServer, PostgreSQL e Redis
+Atuação de Devops usando gitlab e ferramentas de CI/CD
+Nuvem Google Cloud (GKE, CloudRun, Pub/Sub, etc)
+Conhecimento com MVVM
+Scrum e Kanban
+
+
+Informações adicionais
+
+Aqui nós somos humanos, somos digitais, somos Verity!
+
+Tudo o que fazemos se baseia em nossos Valores Fascinantes:
+
+Tecnologia:
+
+
+Nossa Paixão por tecnologia nos impulsiona a modernizar e acelerar negócios;
+
+Transparência e Comprometimento:
+
+
+Somos guiados pela transparência e comprometimento com a entrega;
+
+Conexão Humana:
+
+
+Somos humanos que escutam com empatia e colaboram nas diferenças;
+
+Experiência:
+
+
+Construímos nossa reputação nos desafiando diariamente para entregar as melhores experiências para nossos clientes e colaboradores;
+
+É assim que criamos experiências inovadoras para o mundo digital, inspirando protagonismo e gerando resultados incríveis aos nossos clientes, sempre focados em metodologia, tecnologia e pessoas.
+
+Fomos certificados como uma das melhores empresas para se trabalhar pelo Great Place To Work, e a cada dia criamos ações que melhoram ainda mais o ambiente de trabalho, aqui na Verity você tem:
+
+Vale refeição
+Vale alimentação
+Auxílio home office
+Assistência médica
+Assistência odontológica
+Seguro de vida
+Parcerias de descontos
+Convênios em estabelecimentos e instituições de ensino
+Treinamentos de agilidade recorrentes
+Licenças Alura
+Intervalor Verity
+#VerityComVocê
+Viva Engage

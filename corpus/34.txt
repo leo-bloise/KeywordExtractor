@@ -1,0 +1,55 @@
+Há mais de 15 anos, a BairesDev® é líder em projetos tecnológicos. Entregamos soluções inovadoras para gigantes como Google e Rolls-Royce e as startups mais inovadoras do Vale do Silício.
+
+
+Temos uma equipe diversa de mais de 4.000 profissionais formada pelo Top 1% dos talentos de tecnologia do mundo, trabalhando remotamente em cargos de impacto global.
+
+
+Ao se candidatar para este cargo, você está dando o primeiro passo em um processo que vai além do comum. Nosso objetivo é alinhar suas paixões, habilidades, e expectativas às nossas vagas, colocando você no caminho para desenvolver uma carreira de sucesso excepcional.
+
+
+Desenvolvedor .NET na BairesDev
+
+
+Atuar como um Desenvolvedor .NET Sênior em nossa equipe de Desenvolvimento é como ser um solucionador de problemas em tempo integral. Esperamos que suas habilidades sejam uma combinação de experiência, conhecimento e atitude. A inovação também está no centro da estratégia BairesDev. Então, se você estivesse disposto a assumir as tarefas mais complexas e ser um mestre na sua tecnologia de expertise, .NET, então você provavelmente é um dos talentosos que buscamos.
+
+
+O que você vai fazer:
+
+
+- Arquitetar e desenvolver vários serviços e APIs para o produto Degreed.
+- Utilizar os princípios SOLID na criação de código de manutenção e de alta qualidade.
+- Colaborar com os proprietários do produto para assegurar que as características/mudanças satisfaçam os requisitos do negócio e cumpram a estratégia de Degreed.
+- Trabalhar em estreita colaboração com designers, UX, e outros programadores para ganhar conhecimento das novas características, dependências, e detalhes técnicos em outras funções conforme atribuídas.
+
+
+Esperamos que você tenha:
+
+
+- Experiência com bases de dados SQL e NoSQL.
+- Experiência com Microservices e Nuvem.
+- Conhecimento avançado de algoritmos.
+- Conhecimentos sobre infra-estruturas de TI.
+- Gerenciamento intermediário de metodologias ágeis.
+- Sólido compreensão das melhores práticas, princípios SÓLIDOS, Código LIMPO, e soluções escaláveis.
+- Desenho de padrões de conhecimento.
+- Experiência desenvolvendo aplicações inteiras a partir do zero.
+- Experiência em testes automatizados, condutas CI/CD.
+- Boa experiência com controle de versões.
+- Boa experiência com testes unitários, testes de integração, e cobertura de código.
+- Nível avançado de inglês.
+
+
+Como tornamos seu trabalho (e sua vida) mais fácil:
+
+
+- Modalidade 100% remota - trabalhe de qualquer lugar.
+- Excelente remuneração em USD ou na sua moeda local, como preferir.
+- Hardware para você trabalhar de casa.
+- Horários flexíveis - faça seu próprio horário.
+- Licença parental remunerada, férias, e feriados nacionais.
+- Ambiente de trabalho inovador e multicultural.
+- Colabore e aprenda com o Top 1% global dos talentos de cada área.
+- Ambiente de apoio com mentoria, promoções, desenvolvimento de habilidades, e diversas oportunidades de crescimento.
+
+
+Junte-se a uma equipe global onde seus talentos excepcionais podem se destacar!

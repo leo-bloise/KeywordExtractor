@@ -1,0 +1,67 @@
+qui na ed o que mais valorizamos é a nossa cultura, por isso, iniciamos o nosso processo com o preenchimento de um rápido mapeamento de perfil, que é aplicado logo após a inscrição. Com esse mapeamento identificamos o quanto temos em comum no que tange à Cultura Organizacional. Todos que apresentarem o mínimo de Fit Cultural necessário, seguem para a próxima etapa. Aqui, valorizamos as suas características como pessoa, não nos importamos com sua idade, gênero, formação etc.
+
+Se você topa o desafio, venha fazer parte do nosso time. Estamos focados em qualidade e resultado, com tecnologias de ponta, em um ambiente colaborativo. Pensamos e agimos como um time, desde o problema até a solução. Aqui somos um só, onde o problema de um é um problema de todos.
+
+Criamos softwares. Criamos Soluções Tecnológicas. Impulsionamos pessoas/negócios/a sociedade/o mundo_
+
+Estamos contratando Analista de Sistemas Pleno (.net) para fazer parte do nosso time!
+
+Responsabilidades e Atribuições
+
+Codificação de software
+
+Testes de software (ex: teste de unidade, integração, sistema/funcional, aceitação/estória, carga, desempenho, vulnerabilidade, usabilidade, acessibilidade)
+
+Desenvolvimento e projeto de software orientado a objetos
+
+Especificação técnica de requisitos funcionais e não-funcionais, incluindo requisitos de acessibilidade
+
+Modelagem de dados (modelo lógico e físico);
+
+Controle de versões de código-fonte de software e geração de builds;
+
+Apoio ao Product Owner (PO) na definição e especificação de requisitos (refinamento dos itens do backlog do produto);
+
+Participação ativa nas reuniões e demais práticas inerentes ao desenvolvimento ágil.
+
+Requisitos e qualificações
+
+O que não pode faltar 
+
+Padrões de desenvolvimento: design patterns, MVC, dependency injection, SOLID
+
+net core e asp.net mvc
+
+Experiência com metodologias ágeis: kanban / scrum, estimativa de esforço em grupo
+
+Conhecimento de banco de dados e Sql (preferencialmente experiência com Sql Server)
+
+Experiência em desenvolvimento de aplicações SPA: Angular, reactforms, primeng, bootstrap razor, html, javascript, Jquery, css3, typescriot, requisições ajax.
+
+Experiência com API´s Restfull
+
+Experiência com versionamento de código: Devops/Git ou TFS
+
+Modalidade de contratação: CLT.
+
+Remuneração: R$5.000,00
+
+Nossos benefícios Padrões
+
+Vale Refeição/Alimentação R$35,00 p/ dia;
+Auxílio home office R$120,00;
+Seguro de vida;
+Assistência funeral;
+
+Nossos benefícios Flexíveis
+
+Assistência Médica;
+Assistência Odontológica;
+Alura;
+Crédito extra no cartão de benefícios – Refeição/Alimentação;
+Crédito no cartão de benefícios – Mobilidade;
+Plano Pet - PetLove;
+Plano Total Pass – TP1;
+
+ Modalidade de atuação: remota.
+

@@ -1,0 +1,27 @@
+ITTConnect is seeking an Azure .Net Full Stack Developer to work for one of our clients. This is a role with a global leader in consulting, digital transformation, technology and engineering services present in nearly 50 countries.
+
+
+Job location: Remote, work anywhere from Brazil.
+
+
+
+This job requires excellent English, written and spoken. Please submit a resume in English and be prepared for English language interviews throughout the process.
+
+
+
+Requirements:
+
+8+ years of IT experience
+Hands-on experience with Azure services as a Azure Full Stack Developer (e.g., Azure App Services, Functions, SQL Database, Key Vault, Azure Monitor, Azure Application Insights, Azure Storage, Azure Service Bus etc.)
+Strong experience with .NET Core, C#, and ASP.NET MVC/Web API
+Proficiency in database design and development with SQL Server and NoSQL databases (Cosmos DB, MongoDB preferred)
+Experience with containers (Docker and Kubernetes)
+Willingness to learn Dapr, Biceps and DevOps concepts.
+Knowledge of DevOps practices, including CI/CD pipelines and infrastructure as code (IaC) using ARM templates.
+Experience with CI/CD pipelines using Azure DevOps
+Knowledge of Entity Framework
+Familiarity/experience with Messaging and event handling
+Strong problem-solving and debugging skills
+Excellent written and verbal communication skills in English
+Ability to work both independently and in a team environment
+Experience of working in an Agile environment is an advantage

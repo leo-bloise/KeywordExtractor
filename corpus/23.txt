@@ -1,0 +1,58 @@
+O que estamos buscando?
+
+Estamos em busca de pessoas apaixonadas por tecnologia, com vontade de aprender e crescer em um ambiente dinâmico e desafiador. Se você é movido por resultados, gosta de atuar em diferentes frentes e quer fazer parte de um time colaborativo, essa vaga pode ser para você!
+
+Principais Atribuições
+
+Atuar no desenvolvimento, codificação e testes de sistemas, com foco em projetos de Front-End e Back-End; 
+Desenvolver funcionalidades complexas com autonomia e qualidade; 
+Manter os padrões de projeto estabelecidos, além de sugerir melhorias quando necessário; 
+Validar e garantir a qualidade das novas funcionalidades das aplicações; 
+Realizar manutenção evolutiva e corretiva nos sistemas, atendendo às demandas dos usuários; 
+Executar tarefas de montagem, depuração e testes de programas; 
+Aplicar as melhores práticas de desenvolvimento de software em todas as etapas. 
+
+Requisitos Técnicos
+
+Experiência sólida em desenvolvimento com C# e .NET Core; 
+Conhecimento avançado em bancos de dados relacionais, como PostgreSQL e SQL Server; 
+Domínio em testes automatizados (unitários, integração, end-to-end); 
+Vivência com mensageria (como AWS SQS, RabbitMQ, entre outras); 
+Familiaridade com ferramentas de observabilidade (Datadog, Grafana, Splunk etc.); 
+Experiência com Git para controle de versão; 
+Vivência com meios de pagamento; 
+Boa comunicação e habilidade para trabalhar em equipe. 
+
+Diferenciais
+
+Atuação prévia em ambientes financeiros ou regulatórios; 
+Perfil analítico, proativo e com foco em resolução de problemas; 
+Interesse contínuo por aprendizado e melhoria de processos. 
+
+Localidade
+
+Vaga remota – você pode trabalhar de qualquer lugar do Brasil (ou do mundo!).
+
+Por que construir sua carreira na Meta?
+
+Na Meta, oferecemos autonomia, metas claras e um ambiente inovador, onde você terá a oportunidade de:
+
+Trabalhar com diferentes tecnologias e projetos desafiadores; 
+Sugerir novas ideias e soluções; 
+Crescer profissionalmente em um time colaborativo e inclusivo; 
+Fazer parte de uma empresa reconhecida como uma das Melhores Empresas para Trabalhar no Brasil pelo Great Place to Work; 
+Integrar uma das 10 empresas que mais crescem no país, por 3 anos consecutivos, segundo o Anuário Informática Hoje. 
+
+Nossos Valores
+
+Somos pessoas servindo pessoas 
+Pensamos e agimos como donos 
+Temos gana por performance 
+Crescemos e aprendemos juntos 
+Buscamos excelência e simplicidade 
+Inovação e criatividade estão no nosso DNA 
+
+Diversidade e Inclusão
+
+Aqui, todas as pessoas são bem-vindas, independentemente de deficiência, etnia, crença, orientação sexual, identidade de gênero, aparência ou idade. Queremos que você cresça conosco em um ambiente respeitoso, acolhedor e cheio de oportunidades.
+

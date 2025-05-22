@@ -1,0 +1,90 @@
+DESCRIÇÃO DA VAGA:
+
+Nossa tecnologia dita o ritmo do mercado. Afinal, 25% do PIB brasileiro passa pelos softwares presentes em mais de 40 mil empresas clientes da TOTVS.
+
+
+Para que isso aconteça precisamos ser ágeis, pois as coisas aqui acontecem em uma velocidade acima da média. No nosso dia-dia, aprendemos muito e muito rápido, em um ambiente leve, divertido e desafiador.
+
+
+Nosso time de tecnologia tem a ousadia para colocar todo esse aprendizado e conhecimento em prática. Assim, transformando todos os setores da economia por meio da tecnologia. Topa esse desafio?
+
+
+#ouseetransforme e #sejaTOTVER
+
+
+MISSÃO:
+
+Acreditamos que o SUCESSO do cliente é o nosso SUCESSO! E para isso, estamos à procura de pessoas inquietas, fanáticas por resultados e amantes de tecnologia. Se você tem paixão por tecnologia, trabalho em equipe e gosta de fazer acontecer esta vaga será sua! Venha trabalhar em um ambiente que valoriza gente boa que é boa gente. Venha ser um TOTVER!
+Atue com as ferramentas e tecnologias mais modernas existente no mercado, desenvolvemos framework para aplicações cloud native, containerizadas, distribuídas, resilientes, escaláveis, e muito mais!
+
+
+O QUE VOCÊ VAI FAZER:
+
+Criar códigos que atendam aos nossos padrões internos de estilo, capacidade de manutenção e práticas recomendadas para um ambiente de alta escala. Manter e defender esses padrões por meio de code review;
+Desenvolver funcionalidades e melhorias para nossos produtos, com segurança, teste automatizado, documentação e desempenho;
+Defender melhorias na qualidade, segurança e desempenho do produto que tenham um impacto no time;
+Resolver problemas técnicos de complexidade moderada;
+Colaborar com o gerenciamento do produto e outras partes interessadas (Frontend, UX etc.) a fim de manter um ambiente iterativo e acelerado;
+Reconhecer impedimentos à nossa eficiência como equipe ("dívida técnica"), propondo e implementando soluções;
+Entregar com segurança melhorias com orientação mínima de outros membros da equipe. Colaborar com a equipe em projetos maiores;
+Fornecer orientação para engenheiros iniciantes e intermediários de sua equipe para ajudá-los a crescer em suas responsabilidades técnicas.
+Requisitos e qualificações.
+
+
+O QUE ESPERAMOS DE VOCÊ:
+
+Área de formação acadêmica: Relacionada a área de desenvolvimento de software.
+Conhecimentos técnicos: Experiência em desenvolvimento de software;
+Experiência em C#;
+Experiência com RabbitMQ;
+Conhecimento em Entity Framework;
+Conhecimento em Angular;
+Desejável conhecimentos em CQRS e Docker;
+Experiência com problemas de desempenho e otimização, particularmente em larga escala, e uma capacidade demonstrada para diagnosticar e prevenir esses problemas;
+Conhecimento em CI/CD;
+Experiência em GIT;
+Conforto em trabalhar em um processo de desenvolvimento de software altamente ágil e intensamente iterativo;
+Capacidade demonstrada para comunicar de forma clara e concisa sobre problemas técnicos;
+Mentalidade positiva e orientada para a solução;
+Auto motivado, autodidata e auto gerenciado, com fortes habilidades organizacionais;
+Desejo de trabalhar em colaboração com outras partes da organização.
+
+
+INFORMAÇÕES ADICIONAIS:
+
+Antes de mostrar nossos benefícios, deixa eu já te contar uma coisa: aqui as coisas acontecem em um ritmo acima da média.
+
+
+A rotina em uma empresa de tecnologia é alucinante e o aprendizado é contínuo e diário. O melhor disso é que temos autonomia para colocar esse aprendizado em prática e buscar resultados.
+
+
+E se errarmos? Voltamos e consertamos rápido, até criarmos aquilo que acreditamos ser parte da transformação de cada cliente.
+
+
+Isso tudo acelera o nosso crescimento e nos torna a maior empresa de tecnologia do Brasil, ditando o ritmo do mercado nos mais diversos setores, fazendo tecnologia que transforma.
+
+
+Dito isso, oferecemos:
+● Universidade em Rede TOTVS, uma universidade Corporativa com conteúdos e certificações gratuitos para cada TOTVER;
+● Programa +Saudáveis, que cuida de cada TOTVER com assessoria e ações voltadas para o bem estar em corpo, mente e finanças pessoais;
+● Programa +Vantagens, a maior rede de descontos da América Latina, exclusivos para TOTVERS;
+● Programa + Cuidado, programa de apoio pessoal para TOTVERS e familiares, com orientações em diversas especialidades como: psicologia, serviço social, pet consultoria...
+● Einstein Conecta, benefício de orientação médica online pelos médicos do Hospital Israelita Albert Einstein, totalmente gratuito;
+● Plano de saúde e odontológico;
+● Vale refeição e / ou alimentação;
+● Vale transporte e fretados em algumas estações do metrô;
+● Licença maternidade e paternidade estendida;
+● Espaço de lactário;
+● Bicicletário;
+● Vestiário;
+● Seguro de vida;
+● Auxílio creche;
+● Previdência privada;
+● Escritório que estimula a criatividade e produtividade com ambientes para lanches, salas de jogos, mesas de bilhar e poltronas para relaxar;
+● Gympass.
+
+
+Nós valorizamos a diversidade e inclusão, consideramos todos os candidatos para as nossas vagas, independente de cor, raça, religião, gênero e identidade de gênero, nacionalidade, deficiência, orientação sexual, ascendência, idade, etc.
+
+
+#Ouseetransforme #sejaTOTVER

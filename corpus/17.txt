@@ -1,0 +1,109 @@
+Vaga Aberta: Faça parte da revolução digital no MB!
+
+✨ Que tal construir o futuro da economia digital com a gente? ✨
+
+Imagina democratizar o acesso à criptoeconomia, impactar milhares de pessoas e deixar sua marca em uma revolução que está apenas começando.
+
+Curtiu? Então você precisa ser um MB Maker!
+
+Aqui, você terá:
+
+Autonomia para inovar e propor soluções criativas.
+Um ambiente que valoriza colaboração, diversidade e pluralidade.
+Oportunidades para aprender com os melhores talentos do mercado.
+
+
+Por que o MB é diferente? No MB, nós somos mais do que uma empresa. Somos um movimento. Acreditamos no poder do coletivo para transformar o mundo, e estamos aqui para fazer o futuro acontecer.
+
+Quem estamos buscando?
+
+Se você é apaixonado(a) por:
+
+Inovação e aprendizado constante.
+Web 3.0 e o universo cripto.
+Trabalhar em equipe com um time incrível.
+
+
+E quer:
+
+Desenvolver-se em uma empresa que está moldando a nova economia.
+Dar poder às pessoas e colocar cripto nas mãos de todos e todas.
+Fazer parte de um movimento que já está mudando o mundo.
+
+
+Então essa é sua oportunidade de ser um MB Maker!
+
+✨ Aqui valorizamos a inteligência coletiva e as diferentes vivências. ✨
+
+Pronto para embarcar nessa jornada? ⚡ VemproMB ⚡ #vemserMBMaker ⚡
+
+Responsabilidades e atribuições
+
+Estamos em busca de um Especialista .NET motivado e proativo para integrar nossa equipe. O(a) candidato(a) ideal deve ser resiliente, capaz de trabalhar em grupo e estar disposto a enfrentar desafios em um ambiente dinâmico!
+
+O que você vai fazer?
+
+Sustentação de sistemas legados, assegurando seu funcionamento adequado e livre de falhas;
+Migração de sistemas legados para uma arquitetura baseada em micro serviços;
+Aplicação de princípios de Design Patterns relacionados a Micro Serviços e Orientação a Objetos (OO) para melhorar a qualidade do código e a estrutura dos sistemas;
+Implementação de boas práticas de desenvolvimento, incluindo:
+Revisão de código;
+Documentação adequada;
+Organização e limpeza do ambiente de desenvolvimento;
+Elaboração e execução de testes, incluindo:
+Testes unitários para validar a lógica de cada componente;
+Testes de integração para garantir a interação correta entre os micro serviços;
+Colaboração ativa com a equipe para identificar e implementar soluções técnicas que atendam às necessidades.
+
+
+Requisitos e qualificações
+
+O que precisamos que você tenha? 
+
+Experiência sólida em desenvolvimento com .NET;
+Imprescindível conhecimento em princípios de Orientação a Objetos (OO), incluindo SOLID;
+Conhecimento sólido em Design Patterns aplicáveis a Micro Serviços, como SAGA, Circuit Breaker, Event Sourcing e API Gateway;
+Familiaridade com Design Patterns de Orientação a Objetos, como Strategy, Composite, State e Unit of Work (UoW);
+Habilidade para trabalhar em equipe e contribuir para um ambiente colaborativo;
+Capacidade de se adaptar rapidamente e lidar com desafios de forma eficaz;
+Compreensão da importância de testes para a entrega de código de qualidade.
+
+
+Informações adicionais
+
+A GENTE CUIDA DE CADA MBMAKER E SUAS FAMÍLIAS!
+
+Plano de saúde: ampla cobertura nacional, telemedicina e acesso aos melhores hospitais e laboratórios, incluindo dependentes.
+
+Plano Odontológico: cobertura nacional válida para você e seus dependentes cuidarem da sua saúde bucal.
+
+Dr. Pet: isso mesmo, família aqui inclui seus amigos pets também! Plano de saúde veterinário para você cuidar da saúde do seu melhor amigo.
+
+Auxílio-creche ou babá: para filhos de até 60 meses.
+
+Licença-maternidade estendida de 6 meses.
+
+Licença-paternidade estendida de 20 dias.
+
+Seguro de vida: cobertura completa para cuidar de quem realmente importa: você.
+
+PLR: participação nos lucros e resultados alinhados com o nosso negócio.
+
+LIBERDADE E FLEXIBILIDADE PARA VOCÊ!
+
+Beneflex: por meio do cartão Caju, nosso time recebe um crédito mensal para usar da forma que quiser: como alimentação, refeição, home office, mobilidade ou saúde.
+
+Remote first: aqui você tem a opção de trabalhar de onde quiser - esse é o #nossojeitodetrabalhar! Somos remote first, então escolha aonde prefere estar - em casa, no nosso escritório em SP ou nos nossos coworkings parceiros - We Work e Beer or Coffee - com cerca de 800 espaços espalhados por todo Brasil
+
+Gympass: para que nosso time e seus familiares escolham a atividade física que quiserem praticar, e cuidem da saúde física e mental todos os dias!
+
+Day off de Aniversário: escolha o melhor dia para celebrar no mês do seu aniversário! #MBirthdayoff.
+
+#maisumanoMB: a cada ano que completa aqui na nossa jornada, você ganha uma camiseta incrível da nossa MB Store.
+
+SEJA CRIPTO
+
+Aprenda sobre cripto: tenha acesso a todos os cursos disponíveis na plataforma Blockchain Academy.
+
+Taxa especial: invista no MB e tenha taxas incríveis e diferenciadas.
+

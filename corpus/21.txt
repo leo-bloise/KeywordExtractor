@@ -1,0 +1,61 @@
+
+Cursos de:  ANÁLISE E DESENVOLVIMENTO DE SISTEMAS, Information Systems, Information Technology, Analysis and Systems Development
+
+Escolaridade: Graduação - ANÁLISE E DESENVOLVIMENTO DE SISTEMAS, Analysis and Systems Development, Information Systems, Information Technology - Cursando
+
+Tipo de contrato: PJ
+
+Jornada de trabalho: das 9h às 18h
+
+Disponibilidade para home-office
+
+Responsabilidades Da Posição
+
+O Desenvolvedor Back-End C# Pleno é responsável por criar e manter a lógica do lado do servidor, garantindo a eficiência e a segurança das aplicações. Este profissional atuará em projetos desafiadores, colaborando com equipes multifuncionais.
+
+Desenvolver e manter APIs RESTful e microserviços em C#.
+Colaborar com times de front-end para integrar soluções e serviços.
+Realizar análise e otimização de performance de sistemas existentes.
+Participar de reuniões de planejamento e revisões de código.
+Implementar testes automatizados para garantir a qualidade do código.
+Conduzir a documentação técnica de sistemas e processos.
+Resolver problemas e realizar debugging em aplicações existentes.
+Manter-se atualizado com as tendências de desenvolvimento e tecnologias.
+Auxiliar na definição de arquitetura de software e soluções técnicas.
+Colaborar na melhoria contínua dos processos de desenvolvimento.
+
+Requisitos Obrigatórios Para a Posição
+
+Experiência com C# e .NET Core / Framework
+Desenvolvimento e consumo de APIs REST
+Conhecimento em Entity Framework (Code First, Migrations)
+Domínio em SQL Server (procedures, views, consultas otimizadas)
+Boas práticas com POO e princípios SOLID
+Uso de Git para controle de versão
+Familiaridade com injeção de dependência
+Experiência com Azure DevOps e CI/CD pipelines
+Tratamento de exceções, logs e monitoramento
+Habilidade em resolver problemas complexos.
+Comunicação clara e eficaz, trabalho em equipe.
+Foco em resultados e organização.
+
+Entregas e Resultados Esperados Para a Posição
+
+Desenvolvimento e manutenção de APIs em C#.
+Integração com bancos de dados SQL e NoSQL.
+Implementação de testes automatizados para garantir qualidade do código.
+Participação em revisões de código para assegurar melhores práticas.
+Colaboração com equipes de front-end e UI/UX.
+Desenvolvimento de documentação técnica e de usuário.
+Identificação e resolução de bugs e problemas de desempenho.
+Otimização de processos e melhoria contínua.
+Participação em reuniões ágeis e planejamento de sprints.
+Atualização contínua sobre novas tecnologias e tendências de mercado.
+
+Sobre a Empresa
+
+A Empresa Spring Smart Solutions, localizada na cidade de São Paulo, no estado de São Paulo, atua no setor telecomunicações e se destaca no segmento de Facilities e MDM. Com uma abordagem inovadora e focada na qualidade, a empresa oferece produtos e serviços que atendem às necessidades de seus clientes, promovendo soluções eficientes e inovadoras. Seu compromisso com a excelência e a satisfação do cliente a tornam uma referência em seu mercado, contribuindo para o desenvolvimento econômico da região e estabelecendo parcerias estratégicas que impulsionam seu crescimento contínuo.
+
+
+Experiência e competências desejadas
+Net, Azure, C#, GIT, REST, SQL

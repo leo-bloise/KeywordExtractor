@@ -1,0 +1,27 @@
+Há 10 anos, desafiamos o mercado financeiro com soluções acessíveis e inovadoras. Aprovamos até 2x mais que outros players, com tecnologia que combina mais de 400 fatores para oferecer crédito rápido e sem complicação, usando só CPF e celular.
+
+No Jeitto, dar um jeito é pra hoje. Temos urgência porque nosso cliente tem urgência. É por isso que buscamos, todo dia, dar um jeito pra que quem faz muito com pouco continue fazendo mais e melhor sempre.
+
+Nesta posição, você será será responsável pelo desenvolvimento de tasks de média e alta complexidade com apoio esporádico, desenvolvimento de soluções técnicas avançadas e orientação da equipe. Capaz de interagir com outros times nos assuntos em que está inserido e de tomar decisões fundamentadas dentro de diretrizes definidas, demonstrando uma compreensão mais complexa das responsabilidades da função.
+
+Nesta posição você irá:
+
+Ser responsável pela construção de códigos em c#, garantindo alinhamento de prazos das entregas e traçar planos de ação caso aconteça qualquer mudança de rota; 
+Escrever código escalável usando a linguagem de programação C#; 
+Solucionar problemas e bugs das aplicações visando otimização de performance. 
+
+Para essa posição, é importante que você tenha:
+
+Bacharelado em Ciência da Computação, Engenharia de Software ou área relacionada; 
+Experiência comprovada como desenvolvedor(a) em um cargo semelhante; 
+Compreensão de arquiteturas de sistemas, desenvolvimento de software e práticas de engenharia de software; 
+Habilidades de comunicação; 
+Experiência em desenvolvimento de aplicações em C# e ASP.NET; 
+Vivência com gi. 
+
+Vai ser um diferencial se você tiver:
+
+Conhecimento em produtos de crédito.
+
+O Jeitto acredita e celebra o poder da diversidade em todas as suas formas e pluralidades como ferramenta de desenvolvimento, crescimento e transformação. Reafirmamos nosso compromisso com a inclusão e estamos empenhados com a criação de um ambiente de igualdade de oportunidades para todos os recortes sociais.
+

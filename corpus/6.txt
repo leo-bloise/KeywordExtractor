@@ -1,0 +1,36 @@
+Venha fazer parte da Mouts e contribuir com soluções que impactam a vida de milhares de pessoas!
+Estamos em busca de um(a) pessoa Especialista em desenvolvimento Full Stack (.NET/Angular) para atuar em projetos desafiadores e globais, com foco em arquitetura moderna, performance e escalabilidade.
+
+
+🎯 Responsabilidades:
+
+Desenvolver e manter aplicações com foco em qualidade e performance;
+Atuar com arquitetura de microsserviços;
+Contribuir com a implementação e evolução do design system;
+Participar ativamente das decisões técnicas do time.
+
+
+✅ Requisitos obrigatórios:
+
+Vivência sólida em Angular 14 ou 16
+Vivência sólida em C# (.NET Core 6)
+Padrões de arquitetura (DDD)
+Padrões de código (SOLID, design patterns)
+Testes unitários
+PostgreSQL
+Mensageria (Azure Service Bus, RabbitMQ, Kafka)
+Docker e Kubernetes
+Azure (Functions, Service Bus)
+CI/CD
+ORM: Entity Framework (EF) e/ou Dapper
+Inglês intermediário
+
+
+💡 Diferenciais:
+
+Gitflow
+Redis
+Sistemas distribuídos
+Sonar
+Datadog
+

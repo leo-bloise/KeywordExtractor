@@ -1,0 +1,48 @@
+Na Premiersoft, transformamos desafios em soluções. Com mais de uma década de pioneirismo em desenvolvimento mobile, somos movidos por um propósito claro: criar experiências tecnológicas que impulsionam o crescimento e a transformação dos nossos clientes. Nosso time, formado por mais de 200 #Heroes, combina expertise técnica com o nosso DNA: Team Player, Growth Driven e Problem Solver. Somos movidos por desafios, focados na inovação e comprometidos com a excelência em tudo o que fazemos.
+
+Sobre a oportunidade:
+
+Você irá atuar em uma solução para o segmento financeiro, atuando com sustentação de melhorias em projetos de uma cooperativa de crédito.
+
+Você será responsável por:
+
+Realizar manutenções evolutivas e corretivas em sistemas existentes;
+Analisar sistemas e códigos-fonte, desenvolvendo protótipos e soluções funcionais;
+Propor e implementar integrações entre diferentes sistemas;
+Elaborar e manter a documentação técnica atualizada.
+
+O que você precisa ter:
+
+Experiência sólida com desenvolvimento .NET/C#;
+Familiaridade com versionamento de código (GIT) e documentação de APIs com Swagger;
+Conhecimentos em bancos de dados relacionais.
+
+Será um diferencial, se você tiver:
+
+Experiencia com desenvolvimento Angular
+Vivência em metodologias ágeis;
+Habilidade em trabalhar com equipe no formato de Tribo / Squad;
+Conhecimento em modelagem de dados. 
+
+ Contratação Remota
+
+✨ O que oferecemos: 
+
+Cultura aberta a ideias, inovação e crescimento.
+Foco na excelência das entregas e na geração de impacto.
+Valorização do aprendizado contínuo e do desenvolvimento profissional.
+
+✨ Aqui temos:
+
+Cartão Flash;
+Plano de Saúde Unimed;
+Inglês gratuito 2x por semana;
+Convênio com clinica de saúde mental.
+
+Confira os motivos para trabalhar aqui >> https://conhecanossabase.premiersoft.net/
+
+Saiba mais sobre nós >> https://bit.ly/QuemsomosPremierSoft
+
+️ Conheça nossa Sede >> https://bit.ly/NossaSedePremiersoft
+
+A comunicação durante o processo seletivo pode ser feita por e-mail ou telefone. Sugerimos que você fique de olho em suas caixas de entrada de e-mail e defina a permissão para receber mensagens de @premiersoft.net para que nossas mensagens não sejam direcionadas para a caixa de spam ;)

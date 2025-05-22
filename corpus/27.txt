@@ -1,0 +1,30 @@
+Experiência sólida em desenvolvimento com Node.js e .NET.
+
+Experiência com serviços da AWS, como EC2, S3, Lambda, RDS, entre outros.
+
+Experiência em desenvolvimento de APIs RESTful e microserviços.
+
+Conhecimento em bancos de dados relacionais e não relacionais.
+
+Experiência com metodologias ágeis, como Scrum ou Kanban.
+
+Domínio em práticas de versionamento de código, utilizando ferramentas como Git.
+
+Experiência com containers e orquestração de containers (ex: Docker, Kubernetes).
+
+Desenvolvimento de soluções back-end: Você será responsável por criar e manter sistemas de back-end robustos utilizando Node.js e .NET, garantindo que eles sejam escaláveis, seguros e de alto desempenho.
+
+Integração com AWS: Atuará diretamente em serviços da AWS, garantindo que os sistemas sejam otimizados para a nuvem e aproveitem ao máximo os recursos de escalabilidade e resiliência dessa plataforma.
+
+Desenvolvimento de APIs e microserviços: Contribuirá no design e desenvolvimento de APIs RESTful e microserviços, permitindo que as soluções se integrem de forma eficiente e sejam facilmente escaláveis.
+
+Gerenciamento de banco de dados: Trabalhará com bancos de dados relacionais e não relacionais, garantindo que os dados sejam gerenciados e consultados de maneira eficiente.
+
+Colaboração com equipes multidisciplinares: Você fará parte de uma equipe ágil, interagindo com desenvolvedores, designers, e outros profissionais, para garantir a entrega de soluções completas e eficientes.
+
+Monitoramento e otimização: Fará o monitoramento do desempenho das aplicações, identificando gargalos e propondo melhorias contínuas, garantindo a escalabilidade e a alta disponibilidade.
+
+A vaga aceita trabalho remoto?
+
+Sim
+

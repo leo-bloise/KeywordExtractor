@@ -1,0 +1,43 @@
+Quer trabalhar em uma Health Tech Company com uma das maiores bases ativas de clientes da América Latina e ser protagonista da transformação digital da saúde no país? Vem fazer parte do nosso #dreamteam
+
+
+Nossos clientes estão dentro de hospitais, clínicas, laboratórios e centros de diagnóstico por imagem. Temos experiência para garantir que toda inovação chegue de mãos dadas com a segurança, e por isto nos tornamos uma das maiores empresas de tecnologia para saúde no Brasil com reconhecimento internacional. Ofereceremos soluções end to end para HIS l CIS l LIS l RIS l PACS.
+
+
+O que esperamos de um Analista Desenvolvedor C#?
+
+ 
+
+– Manutenção e customização em sistema legado, além de atuações em WebForm e Hibernate;
+– Realizar análise técnica de demandas baseado no projeto de concepção do produto;
+– Planejar e implementar os requisitos do software dentro dos padrões de qualidade da empresa;
+– Conhecer, seguir a metodologia, critérios e processos de desenvolvimento de software vigentes;
+– Elaborar e executar testes unitários e integrados para garantir a qualidade do produto, prevenindo futuras falhas/bugs;
+– Confeccionar documentos técnicos de soluções pertinentes ao produto e auxiliar a documentação de produto;
+– Realizar a gestão de configuração e monitoramento do ambiente de P&D, garantindo a integridade e segurança;
+– Diagnosticar e corrigir falhas em produtos.
+
+
+É necessário que você possua:
+
+
+
+– Conhecimento intermediário na linguagem de programação em que atuará (C#);
+– Conhecimento em Banco de dados (SQL Server).
+
+
+Será um plus se você possuir:
+
+
+
+–.Net Core (qualquer versão), rabbitMQ, kubernetes.
+
+
+Por aqui estimulamos a Pluralidade. Valorizamos o indivíduo como único. Todas as nossas oportunidades estão abertas para integrar diferentes culturas, perfis, raças, religiões, idades, condições físicas, deficiências, gênero, visões de mundo, escolhas e trajetória. Temos empatia, promovemos o respeito e proporcionamos a todas iguais oportunidades de desenvolvimento e evolução.
+
+
+Vem ser Pixeon!
+
+
+#somospixeon #eficiênciaparasaúde
+

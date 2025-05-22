@@ -1,0 +1,37 @@
+Responsabilidades e atribuições: 
+
+- Experiência: +8 anos
+- Ter atuado em uma variedade de projetos de diferentes segmentos, pelo menos 5 projetos ou em empresas diferentes
+- Uma pessoa que se adapta bem em um novo ambiente.
+
+
+Conhecimentos técnicos necessários:
+
+- C#
+- Asp.Net (Preferencialmente Core ou .Net 6)
+- Utilização de Testes Unitários
+- Conhecimento de filas (diferencial: ter utilizado Azure Service Bus)
+- Conhecimento de micro-serviços
+Experiência em camel springBoot, bff springboot, node, redis, jwt, OAUTH2, angularJs, Angular11 e/ou angular15
+Experiencias com arquitetura microfrontend e microservices
+Experiência em cloud GCP, kubernetes, Sonar, jenkins, veracode, MySql, SqlServer, pub/sub, rabbit, kafka
+Conhecimentos em akamai, apigee, EJB, WAS, Broker - São um diferencial
+Requisitos e qualificações: 
+
+Hard Skill:
+
+- Ter trabalhado com ORM (diferencial: Dapper)
+- Ter noções de Cronjobs/Workers
+- Ter noções de Devops (PODs, CronJobs, Docker, Kubernetes)
+- Ter trabalhado com arquitetura baseada em Domain Driven Design (DDD) ou Clean Architecture
+- SQL Server (Desejável entender de Stored Procedures)
+- MongoDB
+- Domínio de React (Class Components e Functional Components
+- Domínio de Javascript (ES6+)
+- Domínio de CSS/SASS
+- Domínio de Html5
+- Conhecimento em Redux
+- Conhecimento em Fetch/Axios
+- Conhecimento em React Router
+-Desenvolver que tenha conhecimento em java e\ou angular.
+-Que esteja disposto a evoluir seus conhecimento em tecnologia e produtos do banco.

@@ -1,0 +1,55 @@
+Há mais de 15 anos, a BairesDev® é líder em projetos tecnológicos. Entregamos soluções inovadoras para gigantes como Google e Rolls-Royce e as startups mais inovadoras do Vale do Silício.
+
+
+Temos uma equipe diversa de mais de 4.000 profissionais formada pelo Top 1% dos talentos de tecnologia do mundo, trabalhando remotamente em cargos de impacto global.
+
+
+Ao se candidatar para este cargo, você está dando o primeiro passo em um processo que vai além do comum. Nosso objetivo é alinhar suas paixões, habilidades, e expectativas às nossas vagas, colocando você no caminho para desenvolver uma carreira de sucesso excepcional.
+
+
+Desenvolvedor .NET + Fullstack Angular / Pesquisa e Desenvolvimento na BairesDev
+
+
+Estamos a procurar excelentes Desenvolvedores/as .Net + Fullstack Angular para integrar a equipe de Pesquisa e Desenvolvimento (P&D) da BairesDev.
+Nossa equipe de P&D é a parte essencial de nossas soluções tecnológicas que impulsionam milhões em receitas a cada ano, por isso só contratamos os melhores dos melhores.
+Nesta equipe, você encontrará muitos desafios diferentes: análise de dados, aprendizado de máquinas, desktop e desenvolvimento web são alguns dos mais relevantes no momento, mas para impulsionar a inovação, você notará que coisas novas estão surgindo a cada dia!
+A área de P&D é, sem dúvida, a mais desafiadora de toda a empresa, e embora a BairesDev seja composta por pessoas realmente talentosas, em geral, aqui você encontrará profissionais com ampla experiência e também nível intelectual e criativo, muito acima da média.
+Queremos pessoas que aproveitem a jornada. Você está pronto/a?
+
+
+O que você vai fazer:
+
+
+- Arquitetar e desenvolver vários serviços e APIs para o produto Degreed, desenvolvendo, codificando, testando e depurando programas de aplicação de vários graus de complexidade.
+- Tomar decisões arquitetônicas tendo em mente o futuro de um negócio em crescimento.
+- Colaborar com os proprietários dos produtos para garantir que os recursos/mudanças atendam aos requisitos comerciais e cumpram a estratégia Degreed.
+- Trabalhar de perto com projetistas, UX e outros desenvolvedores para obter uma compreensão das novas características, dependências e detalhes técnicos, desenvolvendo e implementando testes de aceitação para garantir que o produto atenda às exigências e expectativas do cliente.
+- Garantir o alto desempenho de todos os sistemas desenvolvidos.
+- Conseguir gerenciar seu tempo de forma eficaz para se concentrar na codificação, bem como apoiar os membros juniores. (Você não precisa ser um super-herói, mas é crucial para lidar com ambos os lados).
+
+
+Esperamos que você tenha:
+
+
+- Ampla experiência trabalhando como desenvolvedor, com experiência prática em projetos Web, C #, SQL Server.
+- Experiência no desenvolvimento de aplicações utilizando a tecnologia Angular/.NET.
+- Sólida experiência com HTML, CSS, e escrita de código compatível com cross-browser.
+- Experiência com MVC.
+- Experiência em desenvolvimento com programação orientada a objetos é desejável.
+- Nível avançado de inglês.
+
+
+Como tornamos seu trabalho (e sua vida) mais fácil:
+
+
+- Modalidade 100% remota - trabalhe de qualquer lugar.
+- Excelente remuneração em USD ou na sua moeda local, como preferir.
+- Hardware para você trabalhar de casa.
+- Horários flexíveis - faça seu próprio horário.
+- Licença parental remunerada, férias, e feriados nacionais.
+- Ambiente de trabalho inovador e multicultural.
+- Colabore e aprenda com o Top 1% global dos talentos de cada área.
+- Ambiente de apoio com mentoria, promoções, desenvolvimento de habilidades, e diversas oportunidades de crescimento.
+
+
+Junte-se a uma equipe global onde seus talentos excepcionais podem se destacar!

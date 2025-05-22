@@ -1,0 +1,27 @@
+Quais serão suas responsabilidades?
+
+Atuação junto com o time de Arquitetura, atuará com Desenvolvimento de Integrações.
+
+O que é necessário para participar desse processo seletivo?
+
+Experiência Sênior em Desenvolvimento Back-End;
+Experiência com desenvolvimento GoLang;
+Experiência em .net;
+Experiência com microservices e comunicação entre eles (serviços de mensageria ex: Kafka, Rabbitmq, etc..);
+Experiência com banco de dados relacional e NoSQL (Oracle, SQLserver, MongoDB);
+Experiência com APIs;
+Testes unitários;
+Dominar as técnicas de desenvolvimento, incluindo Clean Code e SOLID;
+Capacidade de tomar decisões técnicas e arquitetônicas;
+Experiência com Clouds em geral (Azure, Oracle, AWS, GCP);
+Experiência com Kubernetes, Docker.
+
+Por que fazer parte do time DBC Company?
+
+ Somos a 18ª melhor empresa para trabalhar do Brasil e a 4ª melhor empresa para trabalhar no Rio Grande do Sul, segundo o GPTW 2024;
+ Todos os profissionais que estão alocados em clientes e/ou projetos são acompanhados por Gestor da DBC e também por Líder de Smartsourcing;
+ A DBC incentiva seus colaboradores a obterem certificações relacionadas à sua área de atuação e alinhadas com sua Gestão DBC.
+
+O que é importante saber?
+
+ Nosso time promove um ambiente seguro para todos os profissionais independente de sua etnia, crença religiosa, orientação sexual, identidade de gênero, deficiência, idade, etc.

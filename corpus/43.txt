@@ -1,0 +1,59 @@
+A Extreme Digital Solutions é uma empresa jovem, fundada em 2014, antenada nas mais modernas tendências e tecnologias.
+
+Temos como missão tornar negócios mais simples e eficientes, e, na nossa essência, a busca e integração de soluções para as mais complexas e diversas necessidades dos negócios de nossos clientes.
+
+Ao longo desse tempo atingimos a marca de 1000 colaboradores no Brasil e temos na bagagem centenas de projetos desafiadores, com uso intenso de inteligência artificial, e uma visão sempre cuidadosa com a experiência do usuário e sucesso do cliente.
+
+Um papel na EDS é uma oportunidade para fazer parte de algo diferenciado. Somos uma empresa que não tem medo de assumir riscos e inovar. Sim, somos aventureiros e gostamos disso!
+
+Nosso time de talentos tem espaço para você que quer crescer e entregar resultados surpreendentes!
+
+Descrição da Vaga:
+
+Estamos em busca de um Desenvolvedor C# Sênior para integrar nosso time de tecnologia. Este profissional será responsável por projetar, desenvolver e manter aplicações robustas e escaláveis, garantindo alta performance e qualidade do código. Atuará em projetos estratégicos e colaborativos, utilizando metodologias ágeis e ferramentas modernas de versionamento e integração contínua.
+
+Responsabilidades:
+
+Desenvolver e manter aplicações utilizando C# (.NET Framework e/ou .NET Core); 
+Atuar na modelagem e implementação de APIs RESTful; 
+Realizar análise e correção de bugs, melhorias contínuas e refatorações de código; 
+Participar de reuniões de planejamento, refinamento e retrospectivas ágeis; 
+Integrar soluções com serviços e pipelines no Azure DevOps; 
+Contribuir para a automação de processos e testes; 
+Colaborar com outras equipes técnicas e de produto. 
+
+Requisitos Obrigatórios:
+
+Sólida experiência com C# e .NET Framework / .NET Core; 
+Conhecimento em desenvolvimento de APIs e microsserviços; 
+Familiaridade com bancos de dados relacionais (SQL Server) e não relacionais; 
+Experiência com Git e GitHub; 
+Prática em metodologias ágeis (Scrum, Kanban, etc.); 
+Conhecimento em CI/CD com Azure DevOps. 
+
+Desejável:
+
+Experiência ou familiaridade com Python; 
+Conhecimento em containers (Docker) e orquestradores (Kubernetes); 
+Experiência em arquitetura em nuvem (preferencialmente Azure); 
+Práticas de Clean Code, SOLID e Design Patterns. 
+
+Diferenciais:
+
+Certificações Microsoft (Azure / .NET); 
+
+Outras Informações
+
+Condições PJ: Valor fixo e 10 dias de ausência remunerada
+
+A Todos os nossos colaboradores também estendemos em nossos escritórios:
+
+Check in premiado: Cada ida ao escritório gera um número da sorte para concorrer a prêmios semanais, mensais e anuais.
+Aulas de Inglês gratuítas ministradas por professores qualificados até 2x na semana
+Serviços de bem-estar e saúde como: 💅Manicure 🧔🏾Barbearia 💆🏻‍♂ Massagem 💇🏽‍Cabelereiro
+
+About The Company
+
+Simplificamos o mundo com tecnologia e inovação, tornando organizações mais simples e eficientes.
+
+Venha fazer parte desse time comprometido com tornar a experiência dos clientes e usuários cada vez melhor!

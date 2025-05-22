@@ -1,0 +1,34 @@
+Nós, da Paradigma Business Solution, somos especialistas no desenvolvimento de soluções de relacionamento e negociação eletrônica, com a maior base de portais de compras eletrônicas em operação no Brasil. Oferecemos soluções consolidadas, confiáveis e com alta disponibilidade, para indústria, governo e setor elétrico, com a missão de trazer vantagens competitivas e melhores resultados para as organizações.
+
+Nosso time está em constante crescimento! Buscamos novos #Paradigmos para integrar nossa equipe e contribuir com inovação, qualidade e excelência em projetos desafiadores. Se deseja fazer parte de uma empresa que valoriza o desenvolvimento contínuo, a Paradigma é o seu lugar. Venha fazer parte do nosso time! 💙
+
+Oportunidade para Desenvolvedor Pleno
+
+Buscamos uma pessoa para desenvolver softwares em ambiente WEB, baseado em Microsoft.NET e de banco de dados SQL Server para criar novas funcionalidades, correções e testes.
+
+Atividades:
+
+ Redigir documentação técnica e manuais para garantir que o conhecimento sobre o sistema seja registrado e acessível a todos os membros da equipe;
+ Desenvolver novos componentes de software com a ação de escrever código, realizar testes e integrar os novos componentes ao sistema existente a fim de garantir que funcionem corretamente e cumpram os padrões de qualidade estabelecidos;
+ Modificar os componentes do software por meio de análise e identificação de problemas visando corrigir falhas e/ou atender alterações de sistemas e necessidades novas;
+ Proceder a codificação dos programas de computador a partir da necessidade descrita na especificação para garantir que o software atenda aos requisitos do cliente e funcione corretamente;
+ Realizar testes em condições operacionais simuladas, visando verificar se o programa executa corretamente dentro do especificado e com a performance adequada;
+ Modificar programas visando alterar o processamento, a codificação e demais elementos para corrigir falhas e/ou atender alterações de sistemas e necessidades novas;
+ Participar da definição e cumprir os prazos estabelecidos para as tarefas com a ação de participar das reuniões, organizar processos e prioridades, manter comunicação assertiva e colaborar com equipe.
+
+Requisitos:
+
+ Formação em Ciências da Computação, Engenharia ou áreas correlatas;
+ Lógica de Programação
+ MS SQL Server
+ React.Js
+Asp.net
+ Plataforma WEB
+ Microsoft .NET
+ Java Script
+ UML
+ Desenvolvimento ágil
+ Suporte de Software
+ Banco de dados relacional
+ Jquery
+ HTML/CSS/Bootstrap

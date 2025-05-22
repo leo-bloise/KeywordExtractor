@@ -1,0 +1,58 @@
+💡Somos um hub de soluções tecnológicas que transforma e impulsiona pessoas e negócios.
+
+Como uma plataforma tecnológica de gestão e automação, somos especialistas em quatro verticais de negócio.
+
+1️⃣ Fiscal - Inteligência e compliance para governança de documentos fiscais.
+
+2️⃣ Logística - Tecnologia para automações e transformação digital do transporte.
+
+3️⃣ Dispositivos - Monitoramento e gestão de dispositivos inteligentes corporativos.
+
+4️⃣ Kubo - Plataforma para educação corporativa e gestão do conhecimento organizacional - LMS/LXP
+
+🌟 A nossa visão é: "Liderar os mercados onde atuamos através de soluções essenciais para o sucesso dos nossos clientes".
+
+🌿Tudo isso conectado ao ESG, porque acreditamos que a responsabilidade ambiental, social e de governança são pilares fundamentais para o sucesso da NDD.
+
+🌍Nossos produtos estão presentes em mais de 30 países e atendemos cerca de 20 mil clientes, e para fazer tudo isso acontecer temos 580 colaboradores e especialista!
+
+Requisitos
+
+O que buscamos para essa posição de Desenvolvedor C++ 🎯
+
+Escrever funções que são facilmente testáveis
+
+Será responsável em solucionar casos e erros mais abrangentes.
+
+Compreender a pirâmide de testes e escrever testes que auxilie a equipe na construção dos casos de testes.
+
+Usa uma abordagem sistemática para depurar problemas.
+
+Monitorar estabilidade do produto e dos dados operacionais do domínio de sua equipe.
+
+Apoiar o time a identificar e propõe melhorias no código, bem como de tecnologia.
+
+Seguir as políticas do controle de versão do código-fonte do produto.
+
+Apoiar no monitoramento de padrões a serem seguidos.
+
+Colaborar na construção da automatização dos processos de testes e deploy do produto.
+
+Projetar funções alinhadas com a arquitetura geral do produto/negócio.
+
+Seguir os padrões de segurança e ser guardião da sua aplicação.
+
+Compartilhar conhecimentos com time e contribuir para o desenvolvimento da equipe.
+
+Manter a documentação a documentação atualizada para que possa ajudar o time a esclarecer as dúvidas.
+
+Contribui na análise dos indicadores da equipe, ajudando a propor ações para melhoria dos indicadores de performance e backlog.
+
+Apoiar regularmente nas práticas e processos definidos pela empresa, visando a melhoria contínua.
+
+Será um plus se você conhecer 📌
+
+Desejável Experiência com QT
+
+Aplicações em Linux
+

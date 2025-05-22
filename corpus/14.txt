@@ -1,0 +1,58 @@
+We are seeking a passionate and hardworking Middle .NET Developer to join our team and contribute to the advancement and modernization of cutting-edge software solutions.
+
+This position offers a unique chance to collaborate with a distributed team while using state-of-the-art technologies. You will play a key role in designing, developing, and delivering high-quality software that meets business and technical objectives.
+
+Responsibilities
+
+
+Design and develop software applications, adhering to best practices for producing reliable and maintainable code
+Utilize a deep understanding of software development methodologies to create and enhance complex software systems
+Participate in architectural decisions and contribute to the overall design of software solutions
+Engage in all stages of the Agile development lifecycle, including design, implementation, testing, documentation, quality assurance, and deployment
+Take advantage of opportunities to work on innovative projects and areas that align with personal interests
+
+
+Requirements
+
+
+2+ years of experience in .NET development
+Proficiency in C# and .NET Core for building scalable and robust applications
+Skills in Angular for creating dynamic and responsive front-end experiences
+Understanding and hands-on experience with APIs, including REST and GraphQL
+Knowledge of microservices architecture for building scalable and distributed systems
+Background in MVC frameworks to structure user interfaces and business logic
+Expertise in working with SQL and NoSQL databases and managing data efficiently
+Familiarity with DevOps practices, CI/CD tools, and pipeline deployment
+Experience with Domain-Driven Design (DDD) for aligning software with business needs
+Understanding of design patterns and N-Tier architecture to develop scalable and maintainable applications
+Background in building SaaS applications for enterprise-scale environments
+Capability to iteratively design applications, enabling continuous collaboration between technical and business teams
+Competency in debugging, troubleshooting, and problem-solving to identify and address issues
+Strong interpersonal and team collaboration skills
+English language skills at a B1/B2 proficiency level
+
+
+Nice to have
+
+
+Knowledge of algorithms and data structures, including their application in efficient software solutions
+Showcase of computer science fundamentals and their use in practical coding scenarios
+Flexibility to write clear, concise, and optimized code for varied software development needs
+Understanding of analytics and translating business requirements into models and visualizations with data tools
+Energetic and self-driven personality with the capability to excel in a teamwork-based environment
+
+
+We offer
+
+
+International projects with top brands
+Work with global teams of highly skilled, diverse peers
+Healthcare benefits
+Employee financial programs
+Paid time off and sick leave
+Upskilling, reskilling and certification courses
+Unlimited access to the LinkedIn Learning library and 22,000+ courses
+Global career opportunities
+Volunteer and community involvement opportunities
+EPAM Employee Groups
+Award-winning culture recognized by Glassdoor, Newsweek and LinkedIn

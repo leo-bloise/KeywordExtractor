@@ -1,0 +1,47 @@
+Sobre a vaga
+Com mais de 12 anos no mercado, a MESHA Tecnologia se destaca em sua essência por carregar valores que prezam principalmente pela diversidade, valorização do lado humano e meritocracia, construindo assim um relação familiar entre os colaboradores, trabalhando com alocação presencial e remota de Squads e alocação de profissionais na área de TI.
+
+Responsabilidades e atribuições
+
+Desenvolver e manter aplicativos mobile com Flutter;
+Criar e evoluir APIs utilizando C# .NET;
+Participar da criação de POCs e da evolução contínua de projetos com foco em IA;
+Trabalhar com agentes de IA (LLMs, LangChain, RAG, etc);
+Escrever e manter testes unitários e de integração;
+Colaborar com o time de forma eficaz e contribuir com ideias e soluções criativas;
+Utilizar boas práticas de versionamento com Git e GitHub.
+
+
+Requisitos e qualificações
+
+Experiência sólida com Flutter;
+Experiência sólida com Python;
+Experiência sólida no desenvolvimento de APIs com C# .NET;
+Conhecimento em agentes de IA (LangChain, LangGraph, LLMs, RAG, prompt engineering, etc);
+Experiência com testes unitários e de integração;
+Domínio de Git e GitHub;
+Perfil colaborativo, comunicativo e com boa capacidade de adaptação.
+
+
+Diferenciais:
+
+Conhecimento em MCP Server, integrações via SOAP e REST;
+Vivência com AWS Bedrock e AWS Lambda;
+Experiência com metodologias ágeis (Scrum, Kanban, etc).
+
+
+Informações adicionais
+
+BENEFICIOS:
+
+🎈 Day-off e vale compras no aniversário;
+📚 Incentivo Educacional;
+💪 Mesha Fitness;
+🎉 Cultura colaborativa, de gestão horizontal e incentivo à troca de feedbacks.
+💡Dinamismo e abertura para troca de ideias e experiências.
+💰Remuneração compatível com a nível mercado.
+
+
+MODELO REMOTO - PJ
+
+[Job ID: 16417]

@@ -1,0 +1,75 @@
+Vem trabalhar com a gente. Vem ser Cora! 
+
+Sobre a Cora
+
+Das 21 milhões de empresas do Brasil, 93% são pequenos e médios negócios e, apesar de serem responsáveis por ⅓ do PIB do país e 60% dos empregos, as pequenas e médias empresas (PMEs) não são o foco da maioria das instituições financeiras.
+
+Isso muda com a Cora, banco digital criado exclusivamente para apoiar PMES. Com 5 anos de existência, já somamos mais de 1 milhão de clientes e 300 pessoas trabalhando de forma remota em vários lugares do Brasil. 
+
+Dia a dia como Pessoa Desenvolvedora Backend Pleno na Cora
+
+Trabalhar com sistemas em Kotlin usando Spring e banco de dados relacional; 
+Participar da construção de sistemas usando as melhores e mais modernas ferramentas da atualizadade; 
+Trabalhar na melhoria dos sistemas que existem atualmente visando sempre a evolução da situação atual; 
+Colaborar com o time de produto e design na construção das soluções; 
+Vai poder trabalhar em um time com uma cultura de colaboração incrível onde à sua experiência, suas opiniões e seus pontos de vista serão ouvidos e levados em consideração na tomada de decisão. 
+
+Quem estamos buscando
+
+Conhecimento em Kotlin; 
+Conhecimento em banco de dados relacionais; 
+Sistemas distribuidos; 
+Clean Code; 
+Conhecimento com serviços de mensageria (Kafka, SQS ou RabbitMQ); 
+Conhecimentos em observabilidade e monitoramento de sistemas em produção usando ferramentas de troubleshooting e observabilidade como New Relic, Data dog, Grafana, Kibana, etc. 
+
+Cultura da Cora
+
+Potencializamos o espírito empreendedor e valorizamos quem empreende e vive a nossa Cultura no dia a dia.
+
+Precisamos de energia e inconformismo para resolver problemas dos nossos clientes, construindo (muitas vezes do zero) produtos e soluções financeiras simples e acessíveis para ajudar pessoas empreendedoras a tomar decisões informadas de negócio.
+
+Buscamos pessoas inconformadas e excelentes no que fazem (levantamos a barra), que trabalhem de forma autônoma e resolutiva (fazemos acontecer), colaborativa (trabalhamos juntos) e empática (pensamos nas pessoas).
+
+O que oferecemos
+
+Um ambiente dinâmico, com oportunidades de aprender construindo todos os dias, trabalhando de forma colaborativa e gerando alto direto para donos e donas de pequenos e médios negócios.
+
+Para te apoiar financeiramente:
+
+Remuneração competitiva 
+14º salário 
+Benefícios Flexíveis no cartão Flash 
+A partir de 1 ano de Cora, todas as pessoas podem adquirir Ações 
+
+Para apoiar a sua saúde e bem-estar:
+
+Plano de Saúde Sulamerica com inclusão de dependentes 
+Plano Odontológico Bradesco 
+Apoio e suporte 24h da Pipo Saúde 
+Parceria com Gympass 
+Parceria com Zenklub 
+Seguro de vida Zurich 
+Licença parental estendida (180 dias para gestante e 90 dias para não gestante) 
+Auxílio-creche para pais e mães com filhos até 6 anos. 
+Auxílio financeiro para pais e mães com filhos com deficiência.
+
+Modelo de trabalho flexível:
+
+Trabalho 100% remoto 
+Day Off de aniversário 
+5 Day Offs por ano para emendar feriados ou combinar uma folga 
+Auxílio Home Office mensal 
+Banco de horas semestral e flexibilidade nos horários de entrada e saída desde que dentro do horário comercial (08h-20h) 
+Equipamentos para trabalhar em casa (monitor extra, cadeira, escrivaninha, fone de ouvido e apoio para pé) 
+Convênio com a plataforma de Coworkings Woba 
+
+Oportunidade de desenvolvimento:
+
+Auxílio Aprendizagem de R$ 3.000 por ano para cursos, livros, eventos, graduação, pós graduação, entre outros; 
+Para profissionais em início de carreira, o benefício é de R$ 4.000. 
+
+Informações Adicionais
+
+Política de Privacidade: Fazemos algumas perguntas já nesse primeiro momento pensando em agilizar o seu processo. Se quiser saber mais sobre como usamos os dados, pode conferir nossa Política de Privacidade aqui. 
+Para saber mais sobre a Cora: visite nosso site e nosso LinkedIn.

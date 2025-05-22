@@ -1,0 +1,60 @@
+POR QUE TRABALHAR CONOSCO
+
+
+
+A Onze é uma das nossas start-ups e está reinventando a Previdência Privada. Somos a primeira PrevTech do Brasil, trazendo uma proposta totalmente digital para um mercado tradicionalmente analógico. Acreditamos que a tecnologia e a inovação podem ter impacto real na maneira com que as pessoas se preparam financeiramente para o futuro. Além de uma empresa de tecnologia, somos também uma gestora de investimentos, com fundos de previdência privada eficientes e desenhados para trazer o melhor retorno com o menor custo possível – como a Previdência deve ser. Nossos fundos, plataforma tecnológica e soluções de saúde financeira tem como objetivo maximizar a acumulação eficiente de patrimônio, um dos maiores desafios do povo Brasileiro.
+
+
+O TIME
+
+O time da Onze é distribuído em pequenos times ágeis que valorizam a cultura onde cada pessoa desenvolvedora tem autonomia para participar de todo o processo de desenvolvimento, inclusive as etapas de concepção de ideias. Priorizamos e incentivamos que as pessoas se desenvolvam tanto tecnicamente como em outras áreas de competência como comunicação e liderança. Temos orgulho de trabalhar na primeira fintech em previdência privada do Brasil e temos a inovação tecnológica e criatividade como uma das bases do nosso dia a dia.
+
+
+
+
+A OPORTUNIDADE
+
+Você irá participar diretamente das etapas de arquitetura, desenvolvimento, testes automatizados, code review e deploy de funcionalidades em sistemas na nuvem. Você vai trabalhar com tecnologias e metodologias de ponta em aplicações que demandam alta disponibilidade, baixa latência e escalabilidade em um ambiente de desenvolvimento que prioriza eficiência, testes, qualidade e alta entrega de valor.
+
+
+
+
+O QUE PROCURAMOS
+
+Pessoas das áreas de Ciência da Computação, Sistemas de Informação ou áreas relacionadas que sejam proativas e apaixonadas por tecnologia;
+Conhecimento em linguagens de programação. Ex: Go, Java, Python, C# (gostamos bastante de Go, se não souber, você pode aprender aqui!);
+Conhecimento em banco de dados relacionais (ex: MySQL, PostgreSQL, etc);
+Experiência em computação em nuvem (de preferência AWS);
+Experiência em arquitetura de solução;
+Valorizar qualidade e código limpo;
+Conhecimento em testes automatizados;
+Interesse em desenvolver soft skills como comunicação e liderança;
+Inglês intermediário/Avançado
+
+
+
+
+O QUE OFERECEMOS
+
+
+
+Trabalhe em um ambiente dinâmico de start-up com o apoio de uma empresa líder em tecnologia localizada nos Estados Unidos;
+Acompanhamento e gestão de carreira com ciclos de avaliação semestrais estruturados e feedbacks recorrentes;
+Planos de Saúde e Odontológico;
+Plano de Saúde para Pet;
+Previdência privada;
+Plano de saúde financeira incluindo consultorias individualizadas com profissionais certificados;
+Benefício refeição/flexível da Swile;
+Incentivo educacional anual em formato de reembolso;
+Acesso à plataforma da Udemy;
+Bônus anual de acordo com a performance;
+Voucher ifood no mês de aniversário;
+Gympass/Totalpass;
+Empresa cidadã
+Modelo CLT - remoto;
+
+
+
+
+LGPD - aviso de privacidade para pessoas candidatas - https://www.onze.com.br/blog/wp-content/uploads/2023/04/Aviso-de-privacidade-para-candidatos.docx.pdf
+

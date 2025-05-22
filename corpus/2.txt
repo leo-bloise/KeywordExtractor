@@ -1,0 +1,86 @@
+Buscamos desenvolvedores que queiram fazer parte do time Luizalabs.
+Seu papel será desenvolver aplicações que facilite e automatize funcionalidades da área de Logística. Nosso time atua no processo de armazenagem e produção de pedidos nos Centros de Distribuições.
+
+
+Trabalhamos com o objetivo de encontrar soluções simples e que encantem nossos clientes. Codar com eficiência, qualidade, energia positiva, com visão 360º a fim de evitar impactos negativos em processos já existentes, desenvolver testes unitários e de integração. Ser proativo e procurar evoluir seus conhecimentos e de seus parceiros de trabalho de forma colaborativa. Gostamos de pessoas que sobem a barra constantemente, que gastam a sola do sapato para estar juntos com a área cliente, e que tenha autonomia com responsabilidade.
+
+
+Responsabilidades:
+
+
+
+Desenvolver de ponta a ponta soluções de negócio utilizando tecnologias de IA generativa e aprendizado de máquina;
+Utilizar ferramentas low/no-code como aceleradores do desenvolvimento e implementação de soluções;
+Identificar gargalos e implementar soluções técnicas otimizadas focando na automação de processos que ;
+Analisar sistematicamente oportunidades de melhoria contínua em sistemas já desenvolvidos;
+Maximizar a escalabilidade, desempenho, usabilidade e confiabilidade dos aplicativos desenvolvidos;
+Demonstrar iniciativa de aprendizado autônomo e atualização constante sobre novas tecnologias emergentes;
+Definir, construir, refatorar e evoluir nossa plataforma
+Apoiar os times em eventuais problemas e troubleshooting
+Participar das cerimônias da tribo e das squads e colaborar com a definição e priorização do backlog de desenvolvimento
+Desenvolver e orientar as pessoas do time de desenvolvimento
+Pensar em solução fácil de usar, segura, confiável e escalável
+Atuar entendendo claramente o ponto a ser resolvido e acompanhar os resultados.
+Manter a cultura e o ambiente saudável entre os membros do time
+
+
+Requisitos
+
+
+
+Tecnologias:. Python e bibliotecas relacionadas a IA/ML, Java framework spring boot, Node.
+Bancos de dados SQL/NoSQL (SQL Server, MySQL, MongoDB, Redis)
+Processamento assíncrono e mensageria (RabbitMQ, Kafka)
+Containers com Docker e Kubernetes
+Controle de versão com Git (Gitlab, Github, Gitflow)
+Desenvolvimento de aplicações API First
+Arquiteturas baseadas em APIs e microsserviços
+Testes automatizados (unitário, integração, E2E, stress)
+Automação, Integração contínua (CI) e Deploy contínuo (CD)
+Observability: Stack ELK (Kibana), Grafana
+Paradigmas de programação, padrões de projeto e boas práticas
+Técnicas como: TDD, DDD, Clean Code, Event-driven architecture
+Entender os problemas e limitações das tecnologias que trabalha
+Protocolo HTTP e o que o cerca (segurança, three-way handshake do TCP, como funciona uma requisição, SSL, CORS, Cookies, JWT)
+
+
+Diferencial
+
+
+
+Experiência profissional no desenvolvimento com agentes de IA e sistemas autônomos utilizando modelos de linguagem avançados;
+Conhecimento em API Gateway (Apigee, Kong)
+Datadog
+DevOps
+Demonstrar perfil de liderança técnica nos times das soluções back e front-end
+Atomatização de processos (testes, CI/CD)
+Compreensão dos fundamentos teóricos dos modelos generativos de linguagem e suas aplicações práticas
+Conhecimento técnico em Engenharia de Prompt;
+
+
+Benefícios que oferecemos:
+
+
+
+VR/VA, Vale Transporte, Assistência Médica e Odontológica e Auxílio Creche.
+Gympass para bem-estar e saúde.
+Bolsa de estudo com até 50% de desconto.
+Descontos especiais nas empresas do Grupo Magalu (Magalu, Netshoes, Época Cosméticos, Estante Virtual, Kabum entre outras).
+Auxílio Creche
+
+
+Modelo de Trabalho
+
+
+
+Adotamos o modelo 100% remoto, proporcionando flexibilidade, enquanto mantém a interação virtual com a equipe para garantir uma colaboração eficaz e um ambiente de crescimento contínuo.
+‘’Se você busca um ambiente de crescimento e desafios, Vem ser feliz’’!
+
+Nossos valores nos unem e nossas diferenças nos potencializam como um grupo. Mais do que igualdade, buscamos equidade: Aqui, temos espaço para sermos autênticos, independentemente de gênero, etnia, raça, orientação sexual, clero ou deficiência.
+
+
+
+Como é o ambiente de trabalho?
+
+No Luizalabs, temos grande autonomia e responsabilidade, somos multidisciplinares, auto gerenciáveis e com pouca burocracia no nosso cotidiano. Buscamos romper as barreiras que diminuem nossa capacidade de agregar valor ao negócio. Fazemos entregas frequentes e agimos rapidamente ao encontrar problemas; nosso ritmo é acelerado, mas temos tranquilidade e equilíbrio para planejar e executar nossas tarefas com qualidade.
+

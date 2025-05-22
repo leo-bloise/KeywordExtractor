@@ -1,0 +1,58 @@
+Company Overview
+
+SEW is the #1 Energy and Water Cloud Platform, providing cloud-based Software-as-a-Service (SaaS) solutions for Digital Customer Engagement, Field Workforce Engagement, and Smart AI/Machine Learning to the Energy and Utility sector. We empower utilities to enhance customer service, optimize operational efficiency, and maximize return on investments through the SEW platform applications leveraging mobile, AI, Machine Learning, and Cloud technologies.
+Searching for your dream job? At SEW, we strive to help our employees find passion and purpose. Join us in changing the way the world uses energy and water and become part of our innovative and talented team!
+
+
+Position Overview
+
+We are looking for a Mid Level Full Stack .Net Developer with good experience with C# and Angular to join our dynamic engineering team. In this role, you will design, develop, and maintain robust web and mobile applications that integrate seamlessly with SEW’s platform. The ideal candidate will be passionate about building scalable and efficient software solutions and thrive in a fast-paced, collaborative environment.
+
+
+Key Responsibilities
+
+Application Development:
+Design, develop, and maintain scalable web and mobile applications using modern frameworks and technologies.
+Build responsive front-end interfaces that deliver exceptional user experiences.
+Develop efficient and secure back-end services and APIs.
+Analysis and Reporting:
+Perform thorough analysis of complex data and recommend actionable strategies.
+Develop complex database queries in SQL/TSQL and NoSQL.
+Translate client requirements to technical architectural specifications and communicate this to delivery teams and clients.
+Collaboration:
+Work closely with cross-functional teams, including product managers, designers, and other developers, to define and implement solutions.
+Participate in code reviews to ensure high-quality software development.
+System Optimization:
+Optimize application performance to ensure scalability and reliability.
+Troubleshoot, debug, and resolve technical issues promptly.
+Innovation and Best Practices:
+Define data architecture requirements for cross-product integration within and across cloud-based platforms.
+Stay up to date with emerging technologies and industry trends.
+Advocate for and implement best practices in software development, including testing, security, and CI/CD processes.
+Write test plans and test cases to ensure application integrity is maintained.
+
+
+Education and Experience Requirements
+
+Educational Background: Bachelor’s degree in computer science, Data Engineering, or a related field.
+Previous experience in software development and product deployment.
+Hands-on experience with .Net Core, .Net Framework, Angular, Entity Framework, Git, Unit Tests and Pipelines.
+Strong technical documentation skills.
+Expertise in MySQL, Oracle, or MS SQL Server (SAP HANA is a plus).
+Experience with cloud architecture, including AWS, Azure, and Google (SAP BTP is a plus).
+Effectively translate data modeling and BI requirements into the design process.
+Strong analytical and problem-solving skills.
+Excellent human relations and documentation skills.
+Strong ability to interpret customer and market insights and conduct data analysis.
+Fluent English is required; Spanish is a plus.
+
+
+Why Join SEW?
+
+Be part of a mission-driven organization creating impactful solutions for the energy and water sectors.
+Collaborate with a talented and innovative team on cutting-edge projects.
+Enjoy opportunities for professional growth and skill development.
+Work in a culture that values diversity, creativity, and collaboration.
+
+
+SEW is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or expression, pregnancy, age, national origin, disability status, genetic information, protected veteran status, or any other characteristic protected by law.

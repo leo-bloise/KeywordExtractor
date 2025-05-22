@@ -1,0 +1,55 @@
+#VemPraLuby
+
+Aqui você terá a oportunidade de:
+
+Evoluir em um ambiente de alta performance: Uma cultura onde o desenvolvimento é contínuo, com autonomia e envolvimento em projetos nacionais e internacionais que realmente testam suas habilidades e impulsionam seu potencial.
+Integrar um time apaixonado por tecnologia: Aqui, você vai trabalhar ao lado de talentos experientes em um ambiente colaborativo e disruptivo, utilizando as tecnologias mais avançadas do mercado.
+Deixar sua marca no mundo: Nossas soluções digitais impactam diretamente a vida de milhares de pessoas, e é a sua chance de ser parte ativa na construção de um futuro mais digital e conectado.
+Trabalhar de forma remota e com flexibilidade: Seja qual for o seu lugar, estamos prontos para te receber no nosso time!
+
+Sua Missão:
+
+Estamos em busca de um(a) Desenvolvedor(a) Backend .NET Pleno(a) para atuar na construção de soluções de alta performance para um Internet Banking White Label destinado ao mercado financeiro norte-americano. O projeto está em uma fase ativa de desenvolvimento, com entregas importantes planejadas para os próximos meses. Você será peça-chave no desenvolvimento e manutenção de APIs RESTful, utilizando .NET. Buscamos um(a) profissional com notável autonomia, proatividade e capacidade de assumir responsabilidades técnicas rapidamente.
+
+Principais Atividades:
+
+Desenvolver e manter aplicações de back-end robustas, escaláveis e de alta performance utilizando .NET (C#), com foco em .NET 8.
+Criar, otimizar e documentar APIs RESTful para suportar as funcionalidades do Internet Banking.
+Colaborar ativamente com o time no design de soluções e arquitetura de microsserviços ou módulos do sistema.
+Implementar e manter testes consistentes (unitários, de integração) utilizando xUnit ou frameworks similares.
+Utilizar e otimizar bancos de dados relacionais, como PostgreSQL.
+Depurar, otimizar e solucionar problemas complexos para garantir o desempenho máximo e a estabilidade das aplicações.
+Gerenciar e versionar código utilizando Git, seguindo boas práticas como Git Flow.
+Trabalhar com a infraestrutura de nuvem Azure para deployment, monitoramento e gerenciamento de serviços.
+Participar ativamente de cerimônias em um ambiente Agile (Scrum), garantindo entregas contínuas e alinhadas aos prazos.
+Contribuir com a documentação técnica das soluções desenvolvidas.
+Assumir responsabilidades sobre as entregas e o ciclo de vida das funcionalidades desenvolvidas.
+
+Requisitos essenciais:
+
+Experiência profissional sólida (geralmente 3-4+ anos) com desenvolvimento backend utilizando .NET e C#.
+Proficiência no desenvolvimento e consumo de APIs RESTful.
+Sólidos conhecimentos em design, desenvolvimento e otimização de bancos de dados relacionais (ex: PostgreSQL, SQL Server).
+Experiência com a plataforma de nuvem Azure ou AWS.
+Familiaridade com Git, Git Flow e pipelines de CI/CD.
+Experiência em desenvolvimento orientado a testes (TDD) e com frameworks de teste como xUnit.
+Inglês em nível intermediário/avançado, suficiente para leitura técnica, escrita de documentação e participação ocasional em reuniões com o cliente.
+Habilidade comprovada em trabalhar com autonomia, proatividade e capacidade de rápida absorção de conhecimento e responsabilidades.
+Excelentes habilidades de resolução de problemas, análise crítica e proposição de soluções técnicas.
+Boa comunicação e capacidade de colaboração em um ambiente de equipe remota.
+
+Será um diferencial:
+
+Graduação em Ciência da Computação, Engenharia de Software, Sistemas de Informação ou experiência profissional equivalente.
+Familiaridade com arquitetura de microsserviços e seus padrões.
+Experiência com React num ambiente profissional.
+Conhecimento ou experiência no mercado financeiro, especialmente no contexto de Internet Banking, sistemas bancários dos EUA ou FinTechs.
+
+O que oferecemos:
+
+Trabalho Remoto: Desfrute da flexibilidade de trabalhar de qualquer lugar do Brasil, com total autonomia e organização.
+Saúde e Bem estar: Plano de Saúde e Odontológico, Seguro de Vida e Wellhub (Gympass).
++Educação: Descontos em cursos da FIAP e MBA USP Esalq para você continuar aprendendo e se desenvolvendo.
+Diferenciais exclusivos: Descontos em lojas Multilaser, bonificação por indicação de profissionais e negócios, horário adaptável e bônus anual.
+
+Saiba mais sobre cultura, diferenciais e como é ser um #Luber em nossa Página de Carreiras!

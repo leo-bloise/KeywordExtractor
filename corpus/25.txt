@@ -1,0 +1,60 @@
+Há mais de 15 anos, a BairesDev® é líder em projetos tecnológicos. Entregamos soluções inovadoras para gigantes como Google e Rolls-Royce e as startups mais inovadoras do Vale do Silício.
+
+
+Temos uma equipe diversa de mais de 4.000 profissionais formada pelo Top 1% dos talentos de tecnologia do mundo, trabalhando remotamente em cargos de impacto global.
+
+
+Ao se candidatar para este cargo, você está dando o primeiro passo em um processo que vai além do comum. Nosso objetivo é alinhar suas paixões, habilidades, e expectativas às nossas vagas, colocando você no caminho para desenvolver uma carreira de sucesso excepcional.
+
+
+Desenvolvedor .NET Core na BairesDev
+
+
+Atuar como um Desenvolvedor Senior.NET em nossa Equipe de Desenvolvimento é ser um solucionador de problemas em tempo integral. Esperamos que suas habilidades sejam uma combinação de experiência, conhecimento e independência. A inovação também está no centro da estratégia da BairesDev. Portanto, se você estiver disposto a assumir as tarefas mais complexas e ser um mestre em .NET Core, então você é provavelmente uma daquelas pessoas únicas que estamos procurando.
+
+
+O que você vai fazer:
+
+
+- Arquitetar e desenvolver vários serviços e APIs para o produto Degreed.
+- Escrever código independentemente, seguindo as melhores práticas de codificação padrão.
+- Fornecer recomendações de aplicação arquitetônica e orientação com base nos requisitos.
+- Fazer recomendações de projeto para melhorar a experiência do usuário.
+- Analisar, esclarecer e estimar bilhetes JIRA que contenham requisitos de tarefas/funções.
+- Trabalhar com QA para fechar bugs, aplicando produtivamente as lições aprendidas.
+
+
+Esperamos que você tenha:
+
+
+- Sólida experiência como desenvolvedor.
+- Ampla experiência programando em núcleo .NET e em uma linguagem moderna de front-end.
+- Experiência com bancos de dados SQL e NoSQL.
+- Experiência com Microservices e a Nuvem.
+- Conhecimento avançado de algoritmos.
+- Conhecimento da infra-estrutura de TI.
+- Gerenciamento intermediário de metodologias ágeis.
+- Forte compreensão das melhores práticas, princípios SÓLIDOS, Código CLEAN e soluções escaláveis.
+- Conhecimento de Padrões de Design.
+- Experiência no desenvolvimento de aplicações inteiras a partir do zero.
+- Experiência em testes automatizados, pipelines CI/CD.
+- Boa experiência com controle de versão.
+- Boa experiência com testes unitários, testes de integração e cobertura de código.
+- Nível avançado de inglês.
+
+
+Como tornamos seu trabalho (e sua vida) mais fácil:
+
+
+- Modalidade 100% remota - trabalhe de qualquer lugar.
+- Excelente remuneração em USD ou na sua moeda local, como preferir.
+- Hardware para você trabalhar de casa.
+- Horários flexíveis - faça seu próprio horário.
+- Licença parental remunerada, férias, e feriados nacionais.
+- Ambiente de trabalho inovador e multicultural.
+- Colabore e aprenda com o Top 1% global dos talentos de cada área.
+- Ambiente de apoio com mentoria, promoções, desenvolvimento de habilidades, e diversas oportunidades de crescimento.
+
+
+Junte-se a uma equipe global onde seus talentos excepcionais podem se destacar!
+

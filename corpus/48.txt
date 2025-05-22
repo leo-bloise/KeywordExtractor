@@ -1,0 +1,79 @@
+We are looking for a Senior Full-Stack Software Engineer (.Net, Angular) to join our team of innovators. Take your chance to play a vital role in a stable long-term project for a worldwide customer.
+
+Work at Exadel – Who We Are
+
+We don’t just follow trends—we help define them. For 25+ years, Exadel has transformed global enterprises. Now, we’re leading the charge in AI-driven solutions that scale with impact. And it’s our people who make it happen—driven, collaborative, and always learning.
+
+About Our Customer
+
+With 15+ years of experience, this company serves 12,000+ educational organizations and millions of support personnel to develop the next generation of learners. By bringing education software solutions into one unified platform, the customer makes it possible to manage the needs of the education community, including recruiting & hiring, absence & time management, and special education.
+
+Requirements
+
+Bachelor’s degree in computer science or related field; equivalent experience
+8+ years of background in Software Development
+3+ years of proficiency in Angular
+3+ years of experience in C#, .Net and MS SQL Server
+Strong understanding of web-based applications and web architecture
+Contributes to and leverages the value of test automation
+Familiarity with behavior-driven development
+Proficiency in C#, TypeScript, TSQL / PSQL / SQL, Command/Shell Scripting, Entity Framework / Other ORM, and working with Restful APIs
+Ability to debug code and write unit tests
+Good understanding of asynchronous development in API and Web technologies
+Desire to mentor and present in team technical sharing meetings
+Practice in creating Design Sketches, writing requirements, and deducing business requirements from existing code, as well as translating requirements/Gherkin to technical implementation
+
+Ready to work to US-EST/Colombia working hours
+
+Nice to Have
+
+Deep understanding of QA processes Hands-on experience with Unit and Integration testing
+
+Understanding the basics of performance and security testing
+
+Background working with I-technologies Competency in Agile methodology Skills in SaaS (Software as a Service) and multi-tenant solutions Working knowledge of Git in a continuous integration environment
+
+English level
+
+Intermediate+
+
+Responsibilities
+
+Provide advice and oversight regarding solution design and architecture
+Oversee the design, development, testing, deployment, and maintenance of software solutions
+Participate in system analysis and recommend improvements around architecture, scalability, and reliability
+Promote and lead guild activities to encourage the expansion of technical knowledge among engineers across the organization
+Perform analysis and troubleshooting of highly advanced software constructs
+Champion the adoption of coding standard practices and procedures by the team and technology organization
+Construct unit tests over complex algorithms to ensure a high degree of quality in code
+Collaborate with other engineers on the team and across the technology organization
+Participate in Design Sketch reviews within the team and across the technology organization
+Author complex technical documentation and design sketches at a solution level
+Provide High-Level Estimates at a project level
+Participate in functional requirements review meetings with the Product Owner
+Coach others on effective time management techniques
+Challenge the team to think about code quality in terms of long-term maintainability
+Take an active role in ensuring the team meets the sprint commitment
+Effectively draw other, quieter participants into a discussion to get all viewpoints
+Proactively convey details regarding project status and deliverables to key stakeholders “up the chain” promptly
+Apprise team lead regarding team-related status, needs, challenges, etc.
+
+Advantages of Working with Exadel
+
+Exadel is a global company, and benefits can vary depending on your location and contract type. Your recruiter will provide specific information about the benefits available to you.
+
+International projects
+In-office, hybrid or remote mode
+Medical healthcare
+Recognition program
+Professional & personal development opportunities
+Foreign languages classes
+Well-being program
+Corporate events
+Sports compensation
+Referral program
+Equipment provision
+Paid vacation & sick days
+
+Dear candidate, our recruiters only use email addresses with the Exadel domain: @exadel.com. Please be cautious of potential scams. For more details please visit
+

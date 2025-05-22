@@ -1,0 +1,18 @@
+Overview of the role:
+The .NET Engineer position focuses on contributing to high-quality software development projects while building scalable solutions and maintaining applications. This role emphasizes following best practices and quality standards.
+Key responsibilities:
+Developing backend APIs and processes for scalable applications.
+Working on technical challenges that involve .NET and cloud technologies.
+Documenting changes, developing updates, and ensuring maintainable solutions.
+Requirements:
+Experience: Background as a Developer with .NET technologies.
+Backend Development: Experience with .NET Core.
+Cloud Platforms: Experience working with cloud platforms (AWS or Azure).
+Framework Knowledge: Understanding of C#/.NET/NET Core and Entity Framework.
+API Knowledge: Knowledge of RESTful APIs and networking concepts.
+Database Skills: Experience with SQL Databases.
+Architecture: Familiarity with Design Patterns and software architecture concepts.
+Additional skills preferred:
+Data Management: Experience with data management.
+Development Tools: Knowledge of modern development tools and pipelines.
+Business Analysis: Ability to understand business requirements and create technical solutions.

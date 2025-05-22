@@ -1,0 +1,48 @@
+
+LeanTech is committed to delivering innovative and high-quality software solutions. Our mission is to enhance technological experiences while fostering a culture of collaboration and continuous improvement. As a division of Lean Solutions Group, we are a forward-thinking leader in the software development industry. We employ cutting-edge technologies like Flutter and Dart to build high-performance mobile applications. Leveraging our position in the market, we focus on integrating best practices and modern frameworks to ensure excellence in every project. LeanTech prides itself on a culture that values creativity and teamwork, aiming to set benchmarks for quality in the tech industry. Position Overview
+
+
+We are seeking a mid-level FullStack Developer (Flutter - .NET) with strong Dart expertise to join our team and grow into the role of Software Development Engineer in Testing (SDET). In this unique position, you will leverage your development skills to ensure the quality of our Flutter applications by implementing and maintaining tests within the Flutter framework. Key Responsibilities
+
+
+Develop and maintain tests for Flutter applications using Dart, ensuring clean, efficient, and testable code.
+Implement and improve unit, widget, and integration tests using the Flutter Testing Framework, following TDD or BDD methodologies.
+Collaborate with Agile teams to integrate testing into the development process, embedding quality checks early in the lifecycle.
+Gradually take ownership of test strategy, CI/CD integration, and test automation for Flutter apps.
+Test backend APIs using .NET/C# to ensure seamless integration and reliability.
+Identify and troubleshoot issues in application logic and UI behavior.
+Document test cases comprehensively and advocate for best practices in creating testable code design.
+Collaborate with team members to ensure smooth deployments with high reliability and complete test coverage.
+Utilize Docker for effective software delivery processes and leverage state management tools such as Provider or Riverpod in projects.
+Required Skills & Experience
+2+ years of experience in Flutter development with Dart, demonstrating intermediate-level proficiency.
+Strong understanding of Flutter’s testing ecosystem, including unit, widget, and integration testing.
+Basic proficiency in .NET/C# for backend API testing.
+Intermediate-level experience with version control systems such as Git.
+Strong understanding of DevOps practices and CI/CD pipelines, particularly in AWS or Azure environments.
+Basic knowledge of REST APIs and backend integration testing, using tools like Postman is desirable.
+Familiarity with state management in Flutter using Provider or Riverpod.
+Problem-solving mindset focused on writing testable and maintainable code.
+Ability and willingness to transition from a development-focused role to a testing-focused SDET position.
+
+
+Nice to Have Skills
+Experience with Firebase Test Lab or other mobile testing platforms for enhanced testing capabilities.
+Understanding of Agile/Scrum methodologies to effectively contribute within Agile teams.
+Basic familiarity with cloud platforms like AWS or Azure for additional deployment knowledge.
+Exposure to Docker to support continuous integration and delivery processes.
+Experience with state management tools such as Bloc for diverse state management approaches in Flutter.
+Analytical thinking and problem-solving skills to identify and address potential issues proactively.
+
+
+Soft Skills
+Strong collaboration and communication skills, essential for working effectively within Agile teams and integrating testing processes into development cycles.
+Curiosity and willingness to learn, particularly in adopting testing methodologies and practices vital for transitioning into an SDET role.
+Analytical thinking, crucial for identifying test coverage gaps and potential application edge cases to ensure comprehensive testing strategies.
+Adaptability, vital for evolving from a development-focused role to specializing in software testing and quality assurance.
+Ability to work autonomously and take ownership of test strategy and implementation, skillfully integrating CI/CD processes and maintaining quality standards.
+
+
+Why You Will Love Working with Us
+Join a powerful tech workforce and help us change the world through technology.
+Professional development opportunities with international customers Collaborative work environment Career path and mentorship programs that will lead to new levels. Join Lean Tech and contribute to shaping the data landscape within a dynamic and growing organization. Your skills will be honed, and your contributions will play a vital role in our continued success. Lean Tech is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

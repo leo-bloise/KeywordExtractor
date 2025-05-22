@@ -1,0 +1,55 @@
+Estamos em busca de um(a) Desenvolvedor C#/.Net para fortalecer nosso time!
+Se você tem experiência com desenvolvimento back-end, gosta de trabalhar em ambientes colaborativos e quer atuar com soluções robustas e escaláveis, essa oportunidade é pra você!
+
+
+Requisitos obrigatórios:
+
+Experiência com .NET Core, Angular, Azure e SQL Server
+Conhecimento em Entity Framework, Git e Scrum
+Experiência no desenvolvimento de APIs RESTful com autenticação JWT
+Experiência com Swagger, injeção de dependência, SignalR e MediatR
+Vivência com testes automatizados utilizando xUnit
+Noções de mensageria com RabbitMQ e uso de Redis
+Familiaridade com práticas de Clean Code e princípios SOLID
+Capacidade de atuar em ambientes colaborativos e dinâmicos
+Participação em levantamento de requisitos junto ao PO e usuários
+
+
+Desejáveis:
+
+Conhecimento em Power Platform
+Experiência prévia em instituições financeiras ou cooperativas de crédito
+Conhecimentos em engenharia civil ou lógica de processos técnicos
+Perfil autodidata, com histórico de transição e aprendizado contínuo
+
+
+Tempo de Projeto: Tempo indeterminado
+Modelo de contratação: CLT + Benefícios
+Tipo de Alocação: Remoto
+Horário de Trabalho: De segunda a sexta-feira, das 09h às 18h
+
+
+A Softtek valoriza a diversidade e inclusão em sua força de trabalho. A empresa tem uma equipe global com pessoas de diferentes origens e culturas, o que torna o ambiente de trabalho mais rico e interessante. Independentemente da sua, etnia, idade, gênero, orientação sexual, deficiência, credo ou convicção política, o que importa são as suas competências e habilidades para fazer acontecer.
+
+
+Os Softtekians são seres humanos talentosos e auto-determinados que se consideram pessoas loucamente incríveis! Venha fazer parte desse time!!!
+
+
+Quer saber mais? Acesse:
+https://www.softtek.com/pt/transcend/diversidade-e-inclusao
+
+
+Sobre a Softtek:
+
+Fundada em 1982, a Softtek é uma fornecedora global de soluções de TI orientadas a processos com 30 escritórios na América do Norte, América Latina, Europa e Ásia. Com 15 centros de entrega global nos EUA, México, China, Brasil, Argentina, Costa Rica, Espanha, Hungria e Índia, a Softtek ajuda a melhorar e produzir resultados previsíveis para corporações de primeira linha em mais de 20 países. A Softtek é a criadora e líder da indústria nearshore.
+
+
+Para obter mais informações sobre o que fazemos, quem somos e oportunidades de carreira, visite www.softtek.com.
+Siga-nos @Softtek no Twitter e seja nosso fã no Facebook www.facebook.com/softtek.
+
+
+Caso se candidate para essa vaga seus dados ficarão armazenados em nosso banco de dados, atendendo a privacidade de dados conforme à Lei Geral de Proteção de Dados, lei nº 13.709/2018.
+
+Caso não tenha interesse em manter suas informações pessoais em nosso banco de dados, solicitamos nos encaminhar um e-mail para privacid.candidato@softtek.com.
+
+Dúvidas também podem ser enviadas ao e-mail privacid.candidato@softtek.com e dpo.br@softtek.com.

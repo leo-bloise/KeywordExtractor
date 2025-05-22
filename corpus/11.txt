@@ -1,0 +1,78 @@
+Respiramos o varejo, lideramos pelo exemplo, inspiramos e desenvolvemos o potencial das nossas pessoas para fazerem sempre mais e melhor!
+
+Os nossos times têm flexibilidade e autonomia para assumir grandes projetos porque sabemos que só assim, graças a uma equipe responsável e eficiente que pessoas e tecnologia se aproximam. Fazemos juntos pela nossa razão, O CLIENTE! E no processo aprendemos e crescemos junto com o mercado também. Se você é assim como a gente e tem o desejo genuíno de servir o empreendedor brasileiro, transformando seus sonhos em resultados, então aqui é a sua próxima parada!
+
+Com a gente você terá a chance de construir uma carreira com propósito, sabendo que cada escolha sua reflete na vida de milhares de pessoas no varejo brasileiro. Para começar a impactar positivamente a sociedade, confere as nossas oportunidades como Developer Pleno no produto Linx Farma:
+
+Quais desafios nós temos para você?
+
+Por aqui, você terá contato com a vertical de negócios Farma, nosso software de gestão para Farmácias e Drogarias, que marcas como Grupo DPSP, Ultra Popular, Santa Lucia Drogarias, Farmácias Estrela, entre muitas outras confiam!
+Contribuir com a evolução dos produtos existentes no desenvolvimento de soluções para gestão de convênio e fidelização de clientes do varejo farmacêutico.
+
+Como será o seu dia a dia:
+
+Busque listar em tópicos as atividades do cargo de forma resumida;
+Se atente à quantidade de itens para não desencorajar profissionais a se candidatarem.
+
+Alguns sinais de que você é a pessoa certa para respirar o varejo com a gente:
+
+Desenvolver códigos estáveis e fáceis de manter;
+Atuar como desenvolvedor web (.Net Core);
+Colaborar com time ágil para o desenvolvimento de soluções e integrações;
+Garantir o controle de versionamento via GIT;
+Ajudar a diagnosticar e resolver problemas;
+Solucionar problemas de média complexidade;
+
+Além disso, o que nos faria brilhar os olhos, mas tudo bem se não tiver:
+
+Conhecimento em desenvolvimento em HTML, CSS, JS, C#, ASP .Net (Clássico/Core), Web API;
+Conhecimento em recursos Cloud Azure (filas, repositórios, functions);
+Conhecimento em manipulação de banco de dados (SQL Server, MySql, PostgreSQL, ORM);
+Conhecimento em padrões de projeto RESTFul; MVC; DDD;
+Comprometimento com a qualidade de entrega das soluções criadas;
+Formação superior completo ou cursando em Sistemas de Informação, Ciência da Computação, Engenharia da Computação, Análise de Sistemas ou cursos similares.
+
+Como você pode contar com a gente?
+
+Além de todo o aprendizado que você terá no dia a dia com nosso time #soulinx, também cuidamos de você de outras formas:
+
+💻 Jornada de trabalho remota
+
+🥗 Vale Alimentação
+
+🥗 Vale Refeição
+
+🥳 Day Off de aniversário
+
+📚 Bolsa de estudos e cursos livres
+
+💰 Participação de lucros e resultados
+
+👶 Bebê #soulinx a Bordo (programa com vários benefícios para nossos papais e mamães)
+
+🐶 Meu Pet Club
+
+🏖️ Férias & Co
+
+🎁 Presente de casamento
+
+🩺 Assistência médica
+
+🦷 Assistência odontológica
+
+💼 Seguro de vida
+
+🧑‍⚕ Acolhe 360: programa de apoio ao colaborador através de uma equipe multidisciplinar)
+
+💸 Parceria com a Leve: um plano de saúde financeira na sua mão;
+
+⭐Parceria com a Allya: super descontos em estabelecimentos ao redor do Brasil;
+
+🏥 Vitta Prime Care: nosso hospital Digital disponível 24/7 para você
+
+💪 Parceria com redes de academia pela Gympass.
+
+Brilhou os olhos? Então vem #respirarvarejo com a gente!
+
+Na Linx nós valorizamos a diversidade e trabalhamos para a inclusão de todas as pessoas. Todas as nossas vagas são abertas para profissionais de todos os gêneros, orientações sexuais, e identidades de gênero, idade, crenças, raças e etnias, condições físicas e neurodiversidade.
+

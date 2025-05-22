@@ -1,0 +1,33 @@
+O Desenvolvedor .NET Pleno II será responsável pelo desenvolvimento e manutenção de soluções robustas utilizando tecnologias de back-end baseadas em .NET, e banco de dados relacionais e não relacionais. Este profissional será um ponto de referência técnica dentro da equipe, participando de discussões de arquitetura, garantindo a escalabilidade e eficiência dos sistemas e aplicando as melhores práticas de desenvolvimento.
+
+Além disso, atuará tanto no back-end quanto (possivelmente) no front-end (utilizando frameworks modernos), com foco em sistemas distribuídos e arquitetura de microsserviços, além de integrar soluções com sistemas de mensageria para garantir a comunicação entre serviços.
+
+Responsabilidades e Atribuições:
+
+Desenvolvimento: Implementar funcionalidades complexas tanto no back-end (.NET) quanto (possivelmente) no front-end utilizando frameworks como React ou Angular (quando necessário). 
+Desenvolvimento e Integração de APIs: Criar e integrar APIs RESTful e GraphQL para garantir a comunicação eficiente entre diferentes serviços e componentes da aplicação. 
+Gerenciamento de Banco de Dados Relacional e Não Relacional: Trabalhar com bancos de dados relacionais (ex.: SQL Server, MySQL) e não relacionais (ex.: MongoDB, Redis) garantindo performance e eficiência no armazenamento e recuperação de dados. 
+Mensageria e Sistemas Distribuídos: Projetar e desenvolver sistemas utilizando mensageria (ex.: RabbitMQ, Kafka) para comunicação entre serviços, garantindo alta disponibilidade e escalabilidade. 
+Participação na Arquitetura de Software: Contribuir para o design de arquiteturas baseadas em microsserviços, definindo soluções que favoreçam a escalabilidade e manutenção dos sistemas. 
+Implementação de Testes Automatizados: Desenvolver e manter testes unitários, de integração e de performance para garantir a robustez e qualidade do código entregue. 
+Participação em Projetos de Modernização e Migração para Cloud: Contribuir para a modernização de sistemas legados e para a migração de soluções para ambientes de nuvem (AWS, Azure ou Google Cloud). 
+Segurança e Performance: Garantir que as soluções desenvolvidas atendam às melhores práticas de segurança e sejam otimizadas para alto desempenho. 
+Mentoria e Suporte a Desenvolvedores Júniors: Orientar e oferecer suporte técnico a desenvolvedores menos experientes, promovendo o aprendizado dentro da equipe. 
+Colaboração com Metodologias Ágeis: Participar ativamente de cerimônias ágeis (sprints, dailies, plannings e retrospectivas) contribuindo para a entrega contínua de valor. 
+Monitoramento e Observabilidade: Implementar e configurar ferramentas de monitoramento e logging (Prometheus, Grafana, ELK Stack), garantindo a observabilidade de todos os serviços e sistemas. 
+Colaboração Interfuncional: Trabalhar com equipes multifuncionais (dados, produto, segurança) para garantir que as soluções sejam integradas e otimizadas para todos os aspectos do negócio. 
+
+Requisitos:
+
+Domínio de .NET Framework/Core: Experiência avançada em desenvolvimento com C# e .NET Core e variações para back-end.
+Bancos de Dados Relacional e Não Relacional: Forte experiência com SQL Server, MySQL, além de MongoDB, Redis ou outros bancos de dados não relacionais. 
+Cache com Redis: Utilizar Redis para melhorar a performance das aplicações, otimizando consultas e gerenciando o armazenamento em cache. 
+Mensageria: Experiência com RabbitMQ, Kafka ou outras tecnologias de mensageria para sistemas distribuídos. 
+Front-end Moderno (esperado): Experiência com React, Angular ou outro framework moderno de front-end, garantindo uma boa experiência de usuário e integração com back-end. 
+CI/CD e DevOps: Experiência com pipelines de CI/CD, automação de deploys e práticas de DevOps, utilizando ferramentas como Jenkins, GitLab CI ou Azure DevOps. 
+Conhecimento em Nuvem: Experiência com AWS, Azure ou Oracle oci, integrando e desenvolvendo soluções para ambientes de nuvem. 
+Conhecimento de Segurança de Software: Experiência com práticas de DevSecOps e segurança de software, integrando segurança em todas as fases do desenvolvimento. 
+Automação de Infraestrutura: Experiência com ferramentas de automação como Terraform e/ou Ansible. 
+Habilidades Avançadas em Monitoramento: Conhecimento em ferramentas de monitoramento e logging, como Prometheus, Grafana e ELK Stack, para garantir a observabilidade e o monitoramento de sistemas em tempo real. 
+Ferramentas Ágeis e Colaborativas: Familiaridade com ferramentas de gerenciamento de projetos como Jira ou Azure DevOps, e práticas ágeis (Scrum, Kanban).
+

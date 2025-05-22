@@ -1,0 +1,83 @@
+Descrição do cargo:
+
+O que buscamos:
+Estamos em busca de um profissional com pleno conhecimento em desenvolvimento Back-End, que será responsável por criar e/ou manter funcionalidades e interfaces da aplicação. A atuação é “hands-on”, exigindo perfil colaborativo, com boa comunicação, resiliência, foco em resultados e iniciativa. O profissional contribuirá ativamente nas fases de desenvolvimento, revisão e configuração de ambientes, sempre alinhado às práticas ágeis.
+ 
+Requisitos e qualificações;
+
+ 
+ 
+· Desenvolvimento, manutenção e testes de APIs.
+· Implementação e manutenção de arquitetura de Micro serviços.
+· Criação e suporte a funcionalidades Back-End utilizando .NET Framework.
+· Colaboração com o time de desenvolvimento em ambiente ágil.
+· Participação na configuração de ambientes, quando necessário.
+ 
+· Requisitos obrigatórios:
+
+· Sólida experiência com .NET Framework.
+· Conhecimento em Windows Forms.
+· Experiência com SQL Server.
+· Vivência com arquitetura de Micro serviços.
+· Experiência prática em metodologias ágeis.
+ 
+· Diferenciais:
+
+· Conhecimento em cloud AWS, especialmente:
+o SQS
+o S3
+o EC2
+o Lambda
+o Kafka
+ 
+· Perfil desejado:
+
+· Boa comunicação e facilidade para trabalho em equipe.
+· Proatividade e iniciativa.
+· Foco em resultados.
+· Capacidade de adaptação e resiliência.
+
+
+Descrição do perfil:
+
+Descrição comportamental:
+Procuramos uma pessoa que:
+· Goste de trabalhar em equipe e seja colaborativa em suas atribuições;
+· Tenha coragem para se desafiar e ir além, abraçando novas oportunidades de crescimento;
+· Transforme ideias em soluções criativas e busque qualidade em toda sua rotina;
+· Tenha habilidades de resolução de problemas;
+· Possua habilidade e se sinta confortável para trabalhar de forma independente e gerenciar o próprio tempo;
+· Tenha interesse em lidar com situações adversas e inovadoras no âmbito tecnológico.
+ 
+Big enough to deliver – small enough to care.
+#VempraGFT
+
+#VamosVoarJuntos
+
+#ProudToBeGFT
+
+
+Oferecemos:
+
+Cartão multi-benefícios – você escolhe como e onde utilizar. 
+Bolsas de Estudos para cursos de Graduação, Pós, MBA e Idiomas.
+Programas de incentivo à Certificações.
+Horário de trabalho flexível.
+Salários competitivos.
+Avaliação de desempenho anual com plano de carreira estruturado.
+Possibilidade de carreira internacional.
+Wellhub e TotalPass.
+Previdência Privada.
+Auxílio-Creche.
+Assistência Médica.
+Assistência Odontológica.
+Seguro de Vida.
+ 
+ Big enough to deliver – small enough to care.
+#VempraGFT
+
+#VamosVoarJuntos
+
+#ProudToBeGFT
+
+
